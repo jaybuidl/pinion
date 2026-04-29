@@ -31,7 +31,7 @@ Option A has continuous abuse-policing overhead and poor agent UX. Option B lose
 
 ## D2 — Pre-register endpoint to close the race window
 
-![[Pasted image 20260422201835.png|900]]
+![Pasted image 20260422201835](./_attachments/Pasted%20image%2020260422201835.png)
 
 **Status:** Accepted.
 

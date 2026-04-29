@@ -4,7 +4,7 @@ Full design. Assumes you've read README.md and DECISIONS.md.
 
 ## System overview
 
-![[Pasted image 20260422200548.png|800]]
+![Pasted image 20260422200548](./_attachments/Pasted%20image%2020260422200548.png)
 
 ```
                  ┌──────────────────────────────────┐
@@ -159,7 +159,7 @@ Many Kleros products have dedicated subgraphs. The reconciliation worker should 
 
 ### Recursive URI walker
 
-![[Pasted image 20260422200232.png|700]]
+![Pasted image 20260422200232](./_attachments/Pasted%20image%2020260422200232.png)
 
 Implemented as a library consumed by the pinning pipeline. Not a standalone service.
 
@@ -361,7 +361,7 @@ Rate limit state. Redis with sliding-window counters is the standard pattern; sk
 
 ### Per-CID, per-requester state (pending pool)
 
-![[Pasted image 20260422202043.png| 800]]
+![Pasted image 20260422202043](./_attachments/Pasted%20image%2020260422202043.png)
 
 ```
    [new request]

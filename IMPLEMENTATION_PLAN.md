@@ -187,7 +187,7 @@ Expected overall timeline: Phase 1-3 are a few weeks of engineering for one engi
 
 ## Risks and mitigations
 
-![[Pasted image 20260422202158.png|| 900]]
+![Pasted image 20260422202158](./_attachments/Pasted%20image%2020260422202158.png)
 
 ### Subgraph availability dependency
 

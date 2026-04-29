@@ -2,7 +2,7 @@
 
 Durability pinning for Kleros protocol content, regardless of where clients uploaded it.
 
-![[Pasted image 20260422200548.png|800]]
+![Pasted image 20260422200548](./_attachments/Pasted%20image%2020260422200548.png)
 
 ## What this is
 
