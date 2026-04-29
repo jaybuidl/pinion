@@ -1,14 +1,42 @@
 #!/usr/bin/env bash
 
+set -euo pipefail
+
+function usage() {
+  echo "Usage: $0 <network>"
+  echo "Supported networks: ethereum, gnosis"
+}
+
+if [[ "${1:-}" == "-h" || "${1:-}" == "--help" ]]; then
+  usage
+  exit 0
+fi
+
+if [[ $# -ne 1 ]]; then
+  usage
+  exit 1
+fi
+
+network="$1"
+topic="0x61606860eb6c87306811e2695215385101daab53bd6ab4e9f9049aead9363c7d"
+
+case "$network" in
+  ethereum) arbitratorGenesisBlock=15485755 ;;
+  gnosis) arbitratorGenesisBlock=16895601 ;;
+  *)
+    echo "Unsupported network: $network"
+    usage
+    exit 1
+    ;;
+esac
+
 : "${RPC_URL:?RPC_URL is not set. Export it (e.g. export RPC_URL=\$(mesc url)) before running.}"
 
-arbitratorGenesisBlock=15485755
-network=ethereum
-output=metaevidence-${network}.json
+output="metaevidence-${network}.json"
 
 # Pull MetaEvidence events from genesis and shape each log into one JSON row.
-cast logs 0x61606860eb6c87306811e2695215385101daab53bd6ab4e9f9049aead9363c7d \
-  --from-block $arbitratorGenesisBlock \
+cast logs "$topic" \
+  --from-block "$arbitratorGenesisBlock" \
   --rpc-url "$RPC_URL" \
   --json | jq -c '.[]' | while read -r row; do
   # topics[1] stores metaEvidenceID, while data contains the ABI-encoded evidence URI.
@@ -31,7 +59,7 @@ cast logs 0x61606860eb6c87306811e2695215385101daab53bd6ab4e9f9049aead9363c7d \
       metaEvidenceID: $meid,
       evidence: $ev
     }'
-done | jq -s '.' | tee $output
+done | jq -s '.' | tee "$output"
 
 # Build an enriched copy first, then replace $output atomically.
 tmp_output=$(mktemp)
@@ -85,12 +113,10 @@ done | jq -s '.' > "$tmp_output"
 mv "$tmp_output" "$output"
 
 # Export all distinct arbitrable addresses seen in MetaEvidence events.
-jq -r '[.[].address] | unique | .[]' $output | tee unique-arbitrables-from-metaevidence-${network}.json
+jq -r '[.[].address] | unique | .[]' "$output" | tee "unique-arbitrables-from-metaevidence-${network}.json"
 
 # Show some statistics.
 echo -n "Unique metaevidence: "
-jq '[.[].evidence] | unique | length' $output
+jq '[.[].evidence] | unique | length' "$output"
 echo -n "Unique arbitrables: "
-jq '[.[].address] | unique | length' $output
-
-
+jq '[.[].address] | unique | length' "$output"

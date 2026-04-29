@@ -55,9 +55,9 @@
     "transactionHash": "0x94442293eac754936c2567422dd018bd671b210c5f5efe62f15185aad00bdf2c",
     "metaEvidenceID": "2",
     "evidence": "/ipfs/QmY1j3pW4bNRMvpfdaS9EnNMRdfMKEfTdNUZyTy5u13k3w",
-    "fileURI": null,
+    "fileURI": "/ipfs/QmWv14tzXkffRMWnWruWEsnPmiSLvfihhXnCfsSnzCSpAr/main-registry-domain-contracts-v1-1-.pdf",
     "dynamicScriptURI": null,
-    "evidenceDisplayInterfaceURI": null
+    "evidenceDisplayInterfaceURI": "/ipfs/QmQjJio59WkrQDzPC5kSP3EiGaqrWxjGfkvhmD2mWwm41M/index.html"
   },
   {
     "address": "0xce8cf71f6a2cb59e3af9608bb4921080823c5764",
