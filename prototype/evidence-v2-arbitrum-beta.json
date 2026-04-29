@@ -1,0 +1,2432 @@
+[
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 274298995,
+    "transactionHash": "0x19be767ab02b2033899ff46c7b4624274d8e6568d64f283f468a1b27fff82af0",
+    "externalDisputeID": "0",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmeCSBMPdUJGb3xNtUhtRaBd6vprgbc6i1otorjDBWntuN\\\"}",
+    "fileURI": "/ipfs/QmeCSBMPdUJGb3xNtUhtRaBd6vprgbc6i1otorjDBWntuN"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 274299190,
+    "transactionHash": "0xe58985f20961f1a5fa7e9e6226d81246988f83ed2e5a193692accccab4cd75fc",
+    "externalDisputeID": "0",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmXJQzC9Xb4jn7amuoc8SakUSvtGKH5cvCHX9PuE25Lmge\\\"}",
+    "fileURI": "/ipfs/QmXJQzC9Xb4jn7amuoc8SakUSvtGKH5cvCHX9PuE25Lmge"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 274631142,
+    "transactionHash": "0x2354129ee6abfa5063aa3d210bc302540b6ee3b52c35e08c541c2bb963a2a648",
+    "externalDisputeID": "1",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del usuario.\\\",\\\"fileURI\\\":\\\"/ipfs/QmaZR9yR57ZjUivnmjHevFaRQfBAi9mkzbGD1EBoyoiiDj\\\"}",
+    "fileURI": "/ipfs/QmaZR9yR57ZjUivnmjHevFaRQfBAi9mkzbGD1EBoyoiiDj"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 274631287,
+    "transactionHash": "0xb19bfefeab26bf47a5d5de3038db4efd07e30af80d8e09c16de50308d77bca5b",
+    "externalDisputeID": "1",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon.\\\",\\\"fileURI\\\":\\\"/ipfs/QmPf1M8i1K3RE3xs1GvKb1aKqgxNkpqkuGNArsY4Fy5U9p\\\"}",
+    "fileURI": "/ipfs/QmPf1M8i1K3RE3xs1GvKb1aKqgxNkpqkuGNArsY4Fy5U9p"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 274631825,
+    "transactionHash": "0x7b34acb708319a7a8268a8ccf8943de7a972f30927e5a72573869469facfcdff",
+    "externalDisputeID": "2",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmXta66VY9yzMPKRzrHWkAVftv6sBKXuW4o4H2BYqT73nk\\\"}",
+    "fileURI": "/ipfs/QmXta66VY9yzMPKRzrHWkAVftv6sBKXuW4o4H2BYqT73nk"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 274631964,
+    "transactionHash": "0x7d2c042250f637a8198b0fd975299433c22a97f76568bdf2aab9570788f72244",
+    "externalDisputeID": "2",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon.\\\",\\\"fileURI\\\":\\\"/ipfs/QmRHi5poM9prP8scVvpinELERLUmn7ekSFaFPZ83NCdz85\\\"}",
+    "fileURI": "/ipfs/QmRHi5poM9prP8scVvpinELERLUmn7ekSFaFPZ83NCdz85"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 274912328,
+    "transactionHash": "0x0f94ac63845464e4a746bd950b26083d7b66340aa1dd58f3d1cd5964b348becc",
+    "externalDisputeID": "0",
+    "party": "0x04a9EDD12Ed304eFb5E5Fe83109a65E8e84799c3",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"NIGGERS TONGUE MY ANUS\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 275017247,
+    "transactionHash": "0x2172bd71be2b4c56812f8bc9363bec800a7b1403914a4b49585ee1f3f9d1c93f",
+    "externalDisputeID": "2",
+    "party": "0x04a9EDD12Ed304eFb5E5Fe83109a65E8e84799c3",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"NIGGERS TONGUE MY ANUS\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 275017327,
+    "transactionHash": "0x4daea7a80cadf473b2aa051687103f2a8128c6012faa51f4d02942ed9391c657",
+    "externalDisputeID": "1",
+    "party": "0x04a9EDD12Ed304eFb5E5Fe83109a65E8e84799c3",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"NIGGERS TONGUE MY ANUS\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 275020246,
+    "transactionHash": "0x41c97adb1a0acd61f27c503cec742fd5295f6bbf5a6b3448f76b833b68deb62e",
+    "externalDisputeID": "0",
+    "party": "0x341393dC222Cdd71b660c536B90F70D69A81d22e",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"gm\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 275024344,
+    "transactionHash": "0x8fb849a78a80a42b702cd421fde689b15dd0949f3884fb1f17c616f93c542ea7",
+    "externalDisputeID": "0",
+    "party": "0x341393dC222Cdd71b660c536B90F70D69A81d22e",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Bitcoin: A Peer-to-Peer Electronic Cash System\\\\n\\\\nSatoshi Nakamoto\\\\n\\\\nAbstract: The problem of double-spending has been solved with a decentralized digital currency that does not rely on a trusted third party. Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. The currency is called bitcoin.\\\\n1. Introduction\\\\n\\\\nCommerce on the internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments. While the system works well enough for most transactions, it still suffers from the inherent weaknesses of the trust-based model. The need for trust extends to the credit card companies, banks, and other intermediaries that process payments. These institutions require sensitive personal information and often charge fees that are prohibitively high for micropayments.\\\\n\\\\nWhat is needed is an electronic payment system based on cryptographic proof instead of trust, allowing two willing parties to transact directly with each other without the need for a trusted third party. The system must be decentralized, without a central server or trusted parties. The participants must be able to verify the validity of transactions without requiring a third-party intermediary.\\\\n\\\\nBitcoin is an implementation of such a system. The system works by creating a public ledger of transactions, called the \\\\\\\"blockchain,\\\\\\\" which is maintained by a network of independent nodes. These nodes verify and record the transactions in a secure manner using cryptographic techniques. Transactions are grouped into blocks, which are added to the blockchain in a linear, chronological order. The Bitcoin system uses proof-of-work to achieve consensus and prevent fraud or double-spending.\\\\n2. Transactions\\\\n\\\\nWe define an electronic coin as a chain of digital signatures. Each owner transfers the coin to the next by digitally signing a hash of the previous transaction and the public key of the next owner. The recipient can then verify the chain of ownership.\\\\n\\\\nIn order to prevent double-spending, the Bitcoin network requires that the digital signatures be validated by a consensus mechanism. Once the coin is spent, the record is placed into the public ledger, and subsequent owners of the coin can verify its authenticity.\\\\n3. Timestamp Server\\\\n\\\\nThe timestamp server works by creating a hash of a block of items (transactions) and storing it in a public ledger. This proof-of-work helps secure the blockchain by making it difficult to alter any previous blocks without redoing the proof of work.\\\\n4. Proof of Work\\\\n\\\\nProof-of-work is used to secure the network and prevent fraudulent transactions. In order to add a block to the blockchain, a miner must find a hash value that satisfies certain conditions, such as having a certain number of leading zeros. This computational effort is what secures the network and ensures that no one can manipulate the blockchain without expending significant resources.\\\\n5. Network\\\\n\\\\nThe Bitcoin network is decentralized. There is no central server or authority that controls the network. Instead, nodes in the network communicate directly with each other, ensuring that the blockchain is distributed and transparent. Each node stores a copy of the blockchain and contributes to verifying transactions and maintaining consensus.\\\\n6. Incentive\\\\n\\\\nThe incentive structure of Bitcoin is based on two main aspects: transaction fees and the mining reward. Miners who successfully add blocks to the blockchain are rewarded with newly minted bitcoins as well as transaction fees from the transactions included in the block. This incentive structure motivates miners to participate in the network and secure it.\\\\n7. Reclaiming Disk Space\\\\n\\\\nThe Bitcoin protocol allows for the deletion of old, unused data from the blockchain to reduce storage requirements. This helps the network scale and remain efficient as it grows.\\\\n8. Simplified Payment Verification\\\\n\\\\nBitcoin allows for simplified payment verification (SPV), meaning that a user does not need to download the entire blockchain to verify a transaction. Instead, users can rely on a small subset of the blockchain, which makes the system more efficient and accessible to people with limited storage or bandwidth.\\\\n9. Privacy\\\\n\\\\nBitcoin provides privacy by using public keys and pseudonymous addresses. While transactions are transparent on the blockchain, the identities of the participants are not explicitly revealed, offering a degree of privacy. However, it is possible for users to link transactions to identities under certain circumstances, and additional techniques such as mixing services can improve privacy further.\\\\n10. Conclusion\\\\n\\\\nBitcoin represents a revolutionary concept in digital finance. By providing a decentralized, cryptographic solution to the double-spending problem, it allows for peer-to-peer transactions without the need for trust-based intermediaries. The Bitcoin network is a transparent, secure, and efficient system that has the potential to change the way we think about money, payments, and financial systems.\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 275271524,
+    "transactionHash": "0xdfbdc3a17f12f64c410dae787f3762ec8975bbbb2ffd7127588cec1d98b3e817",
+    "externalDisputeID": "1",
+    "party": "0x04a9EDD12Ed304eFb5E5Fe83109a65E8e84799c3",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Bees.  Swarming buzzing bees.  Tickling temperamental bees.  Bees with\\\\npointy painful stingers.\\\\n\\\\n        The boy poured honey down his back and shook his buttocks left to right.\\\\nThe naked crazy boy.  He passed by the beehives, jogging not running.  Taking\\\\nhis sweet innocent time, through the grass, toward the white perfumy clover\\\\nfield.  The bees rose in a fuzzy brown boil, filtered out their hive, cleaved\\\\nthe air like an arrow aiming for honey-dripping bare-bummed Johnny.  Little\\\\nJohnny boy smiled broad and white, his feet advancing toward the clover, tossing\\\\nhis hips from side to side, breathless voice issuing forth, \\\\\\\"Beeeeez.\\\\nZzzzzzzhahahahahaaaaaaaa.\\\\\\\"  \\\\n\\\\n        Little Johnny boy slipped a finger between his perspiring crack, taking\\\\naway honey as if from the stale edges of a white bread sandwich.  Johnny loved\\\\nthe bees, almost as much as the sticky sweet clinging of honey that formed and\\\\nhung like stalactites from his perineum, dripped dripping drops. \\\\n \\\\n        The bees closed in.  Thousands of bees, their murmuring buzzing chorus\\\\ntitillating little Johnny boy, stingers angry and shining in the sun, quivering\\\\nmad.  Johnny jogged toward the clover field, licking his finger of the sweet\\\\nsweaty honey.  Honeybuns, Johnny thought, and laughed until he fell rolling over\\\\nthe start of clover.  Honeybuns, thought Johnny, and he laughed, giggled, a\\\\nsmile playing over his bare freckled puss.  \\\\\\\"Beeeeeeez!\\\\\\\" Johnny exclaimed, as a\\\\nfuzzy buzzing cloud converged on little Johnny's honey sticky ass.  \\\\n\\\\n        The sun rolled in golden fury, and hours later, when it had turned a dark\\\\nred, and sunset swollen, little Johnny boy lay stiff and puffy, pink and happy,\\\\ndead stinking sweet.\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 278504503,
+    "transactionHash": "0x7805930fe8eb505243bef4d65c62120f5244c682391ecbaed9b6ecf588be7257",
+    "externalDisputeID": "3",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo\\\",\\\"fileURI\\\":\\\"/ipfs/QmUNuqUCGnMBa8aasyPDUreXSnDv4hhzXD3vHTAtNbRENv\\\"}",
+    "fileURI": "/ipfs/QmUNuqUCGnMBa8aasyPDUreXSnDv4hhzXD3vHTAtNbRENv"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 278504721,
+    "transactionHash": "0x841797a98a5ec1b4bd775069e6164d8b981e2c0e9b4ff8727b4a577a5ad4fef9",
+    "externalDisputeID": "3",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Contestación de Reclamo\\\",\\\"fileURI\\\":\\\"/ipfs/QmTXqKXegWMYHBs68g8kp2S988LkypkokHF1ha9tZCW3Fg\\\"}",
+    "fileURI": "/ipfs/QmTXqKXegWMYHBs68g8kp2S988LkypkokHF1ha9tZCW3Fg"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 278838842,
+    "transactionHash": "0xf53ae0d221dd5ce70b99d867988da934054725034cc846a4bd6c5191e8179620",
+    "externalDisputeID": "4",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmZeE7NiCTW8jvd5YGvM7JWCEBgjv68UkR5CkWqEYHAsHf\\\"}",
+    "fileURI": "/ipfs/QmZeE7NiCTW8jvd5YGvM7JWCEBgjv68UkR5CkWqEYHAsHf"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 278839211,
+    "transactionHash": "0x8ad15b706f57910cf962f430d05db3979db30b4a6e4317adf704e08c4eec898a",
+    "externalDisputeID": "4",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmazhHfRhCgdYKzgQF7u8oc72H67xGEfxjQtbFuGcHtMXd\\\"}",
+    "fileURI": "/ipfs/QmazhHfRhCgdYKzgQF7u8oc72H67xGEfxjQtbFuGcHtMXd"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 285827189,
+    "transactionHash": "0xd60e4deb3e4a931df945279f69fa53c1d81d49fbc2ef5689877e32356549b8b5",
+    "externalDisputeID": "5",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Claim\\\",\\\"fileURI\\\":\\\"/ipfs/QmYWWQiFdGqxx7iiEbidCh11Rps9pkMwEyQLgC2v16cKMX\\\"}",
+    "fileURI": "/ipfs/QmYWWQiFdGqxx7iiEbidCh11Rps9pkMwEyQLgC2v16cKMX"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 285827835,
+    "transactionHash": "0x0e7d57f5b5bab9549148ced8f6fb12911fd4e527efb2d1c6d12936fb2bb5fa6d",
+    "externalDisputeID": "5",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidence of Plaintiff\\\",\\\"fileURI\\\":\\\"/ipfs/QmYwf8aBFeueu8LNHkehcu5DTCqJYrruHKzJyZXD6kgoet\\\"}",
+    "fileURI": "/ipfs/QmYwf8aBFeueu8LNHkehcu5DTCqJYrruHKzJyZXD6kgoet"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 286156423,
+    "transactionHash": "0xc24acf36280245921cd5409b6f52e7d8b318a0aedabc7d1d5b0e25d17140839a",
+    "externalDisputeID": "6",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's Claim\\\",\\\"fileURI\\\":\\\"/ipfs/QmVxzveueRTwwteYempvAuB2ZnH6eVkHGzVG9VtPtspPer\\\"}",
+    "fileURI": "/ipfs/QmVxzveueRTwwteYempvAuB2ZnH6eVkHGzVG9VtPtspPer"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 286156538,
+    "transactionHash": "0x0f3871d403333fcda3b5b93a62157e6ee286de47c2477f8049bb3959f2102ce4",
+    "externalDisputeID": "6",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Defendant's Reply\\\",\\\"fileURI\\\":\\\"/ipfs/QmfCtUob9UxWHH3QoC8cPaiGvAAj4Zibzm6y4Na2SciLyE\\\"}",
+    "fileURI": "/ipfs/QmfCtUob9UxWHH3QoC8cPaiGvAAj4Zibzm6y4Na2SciLyE"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 286156737,
+    "transactionHash": "0xb334fe444494a7d07867b5682e88610762ebef58e0fbc5de5f6e611a526a3f89",
+    "externalDisputeID": "6",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Final Engineering Expertise Report\\\",\\\"fileURI\\\":\\\"/ipfs/QmTnsmTmW86VDHfSBm9oizvZ37u1xVg91M7eV985i7fPY5\\\"}",
+    "fileURI": "/ipfs/QmTnsmTmW86VDHfSBm9oizvZ37u1xVg91M7eV985i7fPY5"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 286156953,
+    "transactionHash": "0xd70080cbd37cc20f998c32a45173cd01bbd30ad29420ef72b98da30b0182980f",
+    "externalDisputeID": "6",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's Reply to the initial engineering expertise report\\\",\\\"fileURI\\\":\\\"/ipfs/QmdbjiHE1e6ouCbZjR7J6wGUBJgxqERkxguGpTAmE46gWK\\\"}",
+    "fileURI": "/ipfs/QmdbjiHE1e6ouCbZjR7J6wGUBJgxqERkxguGpTAmE46gWK"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 286157090,
+    "transactionHash": "0x4264256f8c1faf190439926e2de8fc106b9f4cfad83aa25c502e52a936ecc069",
+    "externalDisputeID": "6",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Picture of car taken by Plaintiff\\\",\\\"fileURI\\\":\\\"/ipfs/QmRPD6S7PiCii36bivkLGhGJkQBAXEH9migmZCoNDPemAU\\\"}",
+    "fileURI": "/ipfs/QmRPD6S7PiCii36bivkLGhGJkQBAXEH9migmZCoNDPemAU"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 287793456,
+    "transactionHash": "0xde1206c85ed26e6c5c9ff445f34a1f3aa24631a3e49a4643fe3e60060990c30c",
+    "externalDisputeID": "7",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's Claim\\\",\\\"fileURI\\\":\\\"/ipfs/QmUXXiUFWC8352AWQp8vGaVzkni9CL9AW6uCA4uuHdio7P\\\"}",
+    "fileURI": "/ipfs/QmUXXiUFWC8352AWQp8vGaVzkni9CL9AW6uCA4uuHdio7P"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 287793591,
+    "transactionHash": "0x44432f3ec2f2a58a76d3b631cfab6746df0cd75229326dcef5f82db919300586",
+    "externalDisputeID": "7",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's evidence\\\",\\\"fileURI\\\":\\\"/ipfs/QmRVgY7DEe7JJ8qtkij6mTjuE7H4TMbCNAsnuU7srQwpnF\\\"}",
+    "fileURI": "/ipfs/QmRVgY7DEe7JJ8qtkij6mTjuE7H4TMbCNAsnuU7srQwpnF"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 287793708,
+    "transactionHash": "0x36bc98e86ef3eed2e75cf0765f7687e9181cc247fb18a596daeb2ba3a26c9035",
+    "externalDisputeID": "7",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Defendant's reply\\\",\\\"fileURI\\\":\\\"/ipfs/QmSvpqfEthtRcaE3zY29Nc3fgh7xCT3arEyPxDKQgVwJgr\\\"}",
+    "fileURI": "/ipfs/QmSvpqfEthtRcaE3zY29Nc3fgh7xCT3arEyPxDKQgVwJgr"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 287797152,
+    "transactionHash": "0x4fc66c407bb093552b5ce99cf61414011993e655896e5f99642ec81266ccec58",
+    "externalDisputeID": "8",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's Claim\\\",\\\"fileURI\\\":\\\"/ipfs/QmeLQhz5rFwcMD3L6kd7BsHCgKcJBsKC54L1zkigJoy3Rz\\\"}",
+    "fileURI": "/ipfs/QmeLQhz5rFwcMD3L6kd7BsHCgKcJBsKC54L1zkigJoy3Rz"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 287797317,
+    "transactionHash": "0x188c6785a0573a3c91151b962b71f719cd524e75b979bcc8951fce1ac41fef7b",
+    "externalDisputeID": "8",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Defendant's Reply and Evidence\\\",\\\"fileURI\\\":\\\"/ipfs/QmdBHiXSaeCC3kAY6GWGrAMbS1WWz7FXsry5GVriFRVy6k\\\"}",
+    "fileURI": "/ipfs/QmdBHiXSaeCC3kAY6GWGrAMbS1WWz7FXsry5GVriFRVy6k"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 287797504,
+    "transactionHash": "0x8269beeafeee72a27fd02347626adfd4060844be1a15025542aed67960e31a39",
+    "externalDisputeID": "8",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's reply to de Defendant\\\",\\\"fileURI\\\":\\\"/ipfs/QmTQz2L1ZpARxE2xa7zECdpZqb3hqq7nReJFqQMrjYmDqo\\\"}",
+    "fileURI": "/ipfs/QmTQz2L1ZpARxE2xa7zECdpZqb3hqq7nReJFqQMrjYmDqo"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 287797781,
+    "transactionHash": "0x024ad78533276c07966661264da1ae187fbd429f01fc99655b4cbc14e7c262ab",
+    "externalDisputeID": "8",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's Evidence\\\",\\\"fileURI\\\":\\\"/ipfs/Qmb4dfyNwJPhyiA7QpPdrMxKUEm1bvRxGnZJCEDmEUiFE4\\\"}",
+    "fileURI": "/ipfs/Qmb4dfyNwJPhyiA7QpPdrMxKUEm1bvRxGnZJCEDmEUiFE4"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 287797958,
+    "transactionHash": "0xf8680d97a09074ac2220503668c055f868c98b974df2e3aab17fa82cb8b2af96",
+    "externalDisputeID": "8",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's Evidence 2\\\",\\\"fileURI\\\":\\\"/ipfs/QmZjWAu4fc6Fm3Xq4Eg1o2BebzRfyqkUyKWBnEamgPGyK2\\\"}",
+    "fileURI": "/ipfs/QmZjWAu4fc6Fm3Xq4Eg1o2BebzRfyqkUyKWBnEamgPGyK2"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 292970166,
+    "transactionHash": "0x5188959065fc60b3ef298bce467ba034f0e533095f6fad24bbdec18a41c9898b",
+    "externalDisputeID": "9",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Demanda\\\",\\\"fileURI\\\":\\\"/ipfs/QmVQHkx15aXqcY6RMLFmfbV2H4vccajwN73ak4v1SQP5ze\\\"}",
+    "fileURI": "/ipfs/QmVQHkx15aXqcY6RMLFmfbV2H4vccajwN73ak4v1SQP5ze"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 292970327,
+    "transactionHash": "0x8ea80fbe92379b74dc8a4d6d87b91f93d45254c6b2be1807363bb3be7932f29b",
+    "externalDisputeID": "9",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Contestación a la Demanda del Gobierno de la Ciudad de Buenos Aires\\\",\\\"fileURI\\\":\\\"/ipfs/QmbsWPwGt2wv6AQ6xtEkiKrKbh52xPyD8LcuEf63FmfZ26\\\"}",
+    "fileURI": "/ipfs/QmbsWPwGt2wv6AQ6xtEkiKrKbh52xPyD8LcuEf63FmfZ26"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 292970686,
+    "transactionHash": "0xe2620be755e1a3526ca0fa7ff9d65b33122b43cced27115740543d77d2b5c53d",
+    "externalDisputeID": "9",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Historia Clínica \\\",\\\"fileURI\\\":\\\"/ipfs/QmbMYtNFM8g45eZPdJL9GPyqnXkogKV7nDA6bVuNi8fbeH\\\"}",
+    "fileURI": "/ipfs/QmbMYtNFM8g45eZPdJL9GPyqnXkogKV7nDA6bVuNi8fbeH"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 292970823,
+    "transactionHash": "0x6940024a8be89492a2c6a7c1eb7fdf5f1e22bd3b4ad826b66b4bf59748c4f5dd",
+    "externalDisputeID": "9",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Pericia Técnica\\\",\\\"fileURI\\\":\\\"/ipfs/QmSvwf2E3RC5zCVD2TK6uMwJsmhVwgerpAgcouRuTMZwhF\\\"}",
+    "fileURI": "/ipfs/QmSvwf2E3RC5zCVD2TK6uMwJsmhVwgerpAgcouRuTMZwhF"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 292970915,
+    "transactionHash": "0x2177821bb89adcfb74e6ed402e553b0b484717760e62ff3033c9a6e4415cd0e9",
+    "externalDisputeID": "9",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Prueba testimonial\\\",\\\"fileURI\\\":\\\"/ipfs/QmNY9CNKGJL6QakDJ9FHZLANYGqgTcdJcxjEcnFPd9MPqD\\\"}",
+    "fileURI": "/ipfs/QmNY9CNKGJL6QakDJ9FHZLANYGqgTcdJcxjEcnFPd9MPqD"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 293983084,
+    "transactionHash": "0x89bf59e132ed02f24911a64c354d33f0d32bfa30022b4c8a25e6e23014ca1aec",
+    "externalDisputeID": "10",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmY9yy7M76j6VcMfd2pHsmvNbZTYggw7Phy5Ak2wn2QWsW\\\"}",
+    "fileURI": "/ipfs/QmY9yy7M76j6VcMfd2pHsmvNbZTYggw7Phy5Ak2wn2QWsW"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 293983178,
+    "transactionHash": "0x8f5088ec1c45649e467eae1456d931157d2e3e16cee3ee41f528498a4d70bd26",
+    "externalDisputeID": "10",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmRrd9ov6Dp6Dbz3WFqHXHxUnGisYmPwSmfpkSq5mLsj6v\\\"}",
+    "fileURI": "/ipfs/QmRrd9ov6Dp6Dbz3WFqHXHxUnGisYmPwSmfpkSq5mLsj6v"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 296132399,
+    "transactionHash": "0xe0b2f8c056a887f480227a1d11799c0daf7f9e82c5e25d3687d39c032d9fd93f",
+    "externalDisputeID": "11",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Cliente\\\",\\\"fileURI\\\":\\\"/ipfs/QmP9av6dUtfL73GP9DvAL3oykFLEbo4t3nVBp8WAW8wy1u\\\"}",
+    "fileURI": "/ipfs/QmP9av6dUtfL73GP9DvAL3oykFLEbo4t3nVBp8WAW8wy1u"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 296132655,
+    "transactionHash": "0xddc5929db743125d0f93e9e7eae53b89152670d9045c17de2ff05d2ef7cf4e33",
+    "externalDisputeID": "11",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Prestador\\\",\\\"fileURI\\\":\\\"/ipfs/QmWhQifU1GqsALfTaUqhMhdCm4j9Xr5LxL4vBe5RXkpfME\\\"}",
+    "fileURI": "/ipfs/QmWhQifU1GqsALfTaUqhMhdCm4j9Xr5LxL4vBe5RXkpfME"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 296132883,
+    "transactionHash": "0x4470a4acf509b8e28e74e92a88314df5f86a6bf2ae51b015acd41e98bf09089d",
+    "externalDisputeID": "11",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia del Prestador\\\",\\\"fileURI\\\":\\\"/ipfs/QmaRuQh2R5hxqAbJMp5whQqXi3giem54CxpWKvsszw3xPY\\\"}",
+    "fileURI": "/ipfs/QmaRuQh2R5hxqAbJMp5whQqXi3giem54CxpWKvsszw3xPY"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 307804696,
+    "transactionHash": "0x4259ee5cfc831d2fae336c5b0570d8e97ddda91c06f39afd0d0875f3cc92aced",
+    "externalDisputeID": "12",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/Qmddhwg6YeP14PYm1g5GGRXCZ76eKNxmHSyUQKTVsHENTT\\\"}",
+    "fileURI": "/ipfs/Qmddhwg6YeP14PYm1g5GGRXCZ76eKNxmHSyUQKTVsHENTT"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 307805162,
+    "transactionHash": "0xe441cc62cb7f228e82ef3c78ab2b0fbffbfe1444bd5494af4699f55e883aff1b",
+    "externalDisputeID": "12",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmaZkzADV51QTamkYoCW1cXkNKB4f3Ck2TgKBt9A8iou3V\\\"}",
+    "fileURI": "/ipfs/QmaZkzADV51QTamkYoCW1cXkNKB4f3Ck2TgKBt9A8iou3V"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 307805535,
+    "transactionHash": "0x297b8db49ed0c491b12fa070d3967c7f2239568f326303ca174daab34d82e895",
+    "externalDisputeID": "13",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmXU71zvMxj1THFRkxAgEYbkd9RyJYHgefwBzWGVEh1LVB\\\"}",
+    "fileURI": "/ipfs/QmXU71zvMxj1THFRkxAgEYbkd9RyJYHgefwBzWGVEh1LVB"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 307805658,
+    "transactionHash": "0xabf6e27392d8ff7e27c4508e4fe415e636e8387e149561a1e913346f9deeeb26",
+    "externalDisputeID": "13",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmfXEFpHjgiWSkb2wLVFbrXxr6bJdsF5ugG1QeDVc6KDqZ\\\"}",
+    "fileURI": "/ipfs/QmfXEFpHjgiWSkb2wLVFbrXxr6bJdsF5ugG1QeDVc6KDqZ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309517955,
+    "transactionHash": "0x738832a6aea74f9d9f50f42e631ccb4fc3f444a7149ab95c03a060be6a7e6e8a",
+    "externalDisputeID": "15",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Claim\\\",\\\"fileURI\\\":\\\"/ipfs/QmNv4sam2GNuU1bQiPUAoK1wPikoTvrKTzBdxT6zUQ6XCi\\\"}",
+    "fileURI": "/ipfs/QmNv4sam2GNuU1bQiPUAoK1wPikoTvrKTzBdxT6zUQ6XCi"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309518121,
+    "transactionHash": "0x17f564b4e0db80781c2b511f73a4ddd1120bd00d7b574a5d3f40975e29340107",
+    "externalDisputeID": "15",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Defendant's Reply Memo\\\",\\\"fileURI\\\":\\\"/ipfs/Qmejgn5YmQ31aHeRsykVS9hegt1wtMgu5YNpWLd8pDXoeb\\\"}",
+    "fileURI": "/ipfs/Qmejgn5YmQ31aHeRsykVS9hegt1wtMgu5YNpWLd8pDXoeb"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309518266,
+    "transactionHash": "0x6c0a9bc55409b96c656ce9df6f2c69f2b79f62b413c5917c0fc1010618f33a34",
+    "externalDisputeID": "15",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidence from Defendant \\\",\\\"fileURI\\\":\\\"/ipfs/QmbZDcEM5NaYDScAV79QvMKkj1jKs5vknDxvRDquv2p1mz\\\"}",
+    "fileURI": "/ipfs/QmbZDcEM5NaYDScAV79QvMKkj1jKs5vknDxvRDquv2p1mz"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309521042,
+    "transactionHash": "0x467f55df8b125dd8a08323dab72e73d8af6b6f961fe2abaae00b1b72e9caab2e",
+    "externalDisputeID": "14",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Claim\\\",\\\"fileURI\\\":\\\"/ipfs/Qmd9x8LAozSH8zj51YM52NurmdfXtULbyJW9sTZCzCNag7\\\"}",
+    "fileURI": "/ipfs/Qmd9x8LAozSH8zj51YM52NurmdfXtULbyJW9sTZCzCNag7"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309521229,
+    "transactionHash": "0x04ac40c333c2dfb97fa65893a9a3445c18da2691fa5581cfad382abe1f1350bd",
+    "externalDisputeID": "14",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Commercial License for Carpentry Factory\\\",\\\"fileURI\\\":\\\"/ipfs/QmUYNiJXEnvFD2tgugBhuz4TjYwpvw44YiunSopqC2K416\\\"}",
+    "fileURI": "/ipfs/QmUYNiJXEnvFD2tgugBhuz4TjYwpvw44YiunSopqC2K416"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309521355,
+    "transactionHash": "0xfe9ae0a34b8a10f8f3db43213f75df702ee29001dc8a44f6a015abb5b1341551",
+    "externalDisputeID": "14",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Criminal Case Report\\\",\\\"fileURI\\\":\\\"/ipfs/QmVQFvcQNcQoq6shby9WGam1ZK6xfeKfuAHTj6U78XkxbH\\\"}",
+    "fileURI": "/ipfs/QmVQFvcQNcQoq6shby9WGam1ZK6xfeKfuAHTj6U78XkxbH"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309521472,
+    "transactionHash": "0x49a5e1abd93ffc8dd64e0102170e7ee16daca6d725ca1c093b5d5cd0095798fc",
+    "externalDisputeID": "14",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Medical Report\\\",\\\"fileURI\\\":\\\"/ipfs/QmaCHJYtt1XjoCDQjW3QjKoJ22Zw4Mcfep4XEiTcX2cNnm\\\"}",
+    "fileURI": "/ipfs/QmaCHJYtt1XjoCDQjW3QjKoJ22Zw4Mcfep4XEiTcX2cNnm"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309826513,
+    "transactionHash": "0xe985538f99ad742961109d3fd6de8e562f9ef4e2672d71adc968b4abef0144c9",
+    "externalDisputeID": "16",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's Claim\\\",\\\"fileURI\\\":\\\"/ipfs/QmZSEbfgbDZqwMGiCgqg8px7tnfdtG1iX3rDBsVwLg6yLp\\\"}",
+    "fileURI": "/ipfs/QmZSEbfgbDZqwMGiCgqg8px7tnfdtG1iX3rDBsVwLg6yLp"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309826697,
+    "transactionHash": "0x3ce721bbcf2e4df9651a281507652d2017153f2f2e3fd59f728267c370d53e85",
+    "externalDisputeID": "16",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Plaintiff's Company License\\\",\\\"fileURI\\\":\\\"/ipfs/QmPZydN5bFWLzKm7Egv9bdMrPMTDfJY14xiHWQC5vGMpo8\\\"}",
+    "fileURI": "/ipfs/QmPZydN5bFWLzKm7Egv9bdMrPMTDfJY14xiHWQC5vGMpo8"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309826948,
+    "transactionHash": "0x15811d3d486079055f9ba9b21a4212d011e34c3efc652e878d5d912101354210",
+    "externalDisputeID": "17",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Claim\\\",\\\"fileURI\\\":\\\"/ipfs/QmUoXs2ASEzSuvEtUQ86XPGEcvdHv7QmrtQG7u7Jx9tMpZ\\\"}",
+    "fileURI": "/ipfs/QmUoXs2ASEzSuvEtUQ86XPGEcvdHv7QmrtQG7u7Jx9tMpZ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309827053,
+    "transactionHash": "0xc13b9cc9e42631a8902bcc9ad107a88bf8ed995dfea43795b3ca1734e2c955b7",
+    "externalDisputeID": "17",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reply from Defendant\\\",\\\"fileURI\\\":\\\"/ipfs/QmZBxaUYqqhtaEkDSSYLAWqiDukjDPWyASic572wzoeos4\\\"}",
+    "fileURI": "/ipfs/QmZBxaUYqqhtaEkDSSYLAWqiDukjDPWyASic572wzoeos4"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309827204,
+    "transactionHash": "0x91ad8c835d4816a299beaaf0d94ca960282190d430e360228a28dc35b5800c4a",
+    "externalDisputeID": "17",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidence of Payment\\\",\\\"fileURI\\\":\\\"/ipfs/QmX5fgxRpDyKYZUAgZJ48pPKtDdwCxVVGRJr4vGTZT3fwL\\\"}",
+    "fileURI": "/ipfs/QmX5fgxRpDyKYZUAgZJ48pPKtDdwCxVVGRJr4vGTZT3fwL"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309827310,
+    "transactionHash": "0x1f645c44cf12bca90cda59042760839dc26b8d7b8ce624c0279b5c5c27386191",
+    "externalDisputeID": "17",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Business License \\\",\\\"fileURI\\\":\\\"/ipfs/QmZvNwKwoQuNqVV81Bsq4EsCaMvdxM5LEgWqPsjvjZE2du\\\"}",
+    "fileURI": "/ipfs/QmZvNwKwoQuNqVV81Bsq4EsCaMvdxM5LEgWqPsjvjZE2du"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 309827457,
+    "transactionHash": "0xacebffb4c487fd9ab90706754d72060c851d4cfd10a5b4481f31c9d43746b292",
+    "externalDisputeID": "17",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"2nd Reply of Claimant\\\",\\\"fileURI\\\":\\\"/ipfs/QmePr7coy5pkRLr9Yn43ZrqR9XucGbBTkkSRovnyxxRk5g\\\"}",
+    "fileURI": "/ipfs/QmePr7coy5pkRLr9Yn43ZrqR9XucGbBTkkSRovnyxxRk5g"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 310187291,
+    "transactionHash": "0x86249beb4b0672978708806cf428e2046c352a553f3dd81d1135e614c9319661",
+    "externalDisputeID": "18",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Demanda\\\",\\\"fileURI\\\":\\\"/ipfs/QmXFZgwc89m5ymwjUn94xvL36jgATpJhXQw1Xcy14P5vS5\\\"}",
+    "fileURI": "/ipfs/QmXFZgwc89m5ymwjUn94xvL36jgATpJhXQw1Xcy14P5vS5"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 310187433,
+    "transactionHash": "0x4d07d9539adf0ddd840ca149e872a60bea8b26149a54f31fc3921b65eb1b330d",
+    "externalDisputeID": "18",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Contrato de Tarjeta y Resúmenes\\\",\\\"fileURI\\\":\\\"/ipfs/QmcdKVFgJPmYJKu1jH1q3u1GyPNU6HjZU4Z6w3DynjsDyh\\\"}",
+    "fileURI": "/ipfs/QmcdKVFgJPmYJKu1jH1q3u1GyPNU6HjZU4Z6w3DynjsDyh"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 313293212,
+    "transactionHash": "0xb1a46e7df043100ec97e4e3bb6b2ff8752a1a2f2c59b03dbc31e965571e0e3f7",
+    "externalDisputeID": "19",
+    "party": "0x6687c671980E65ebD722b9146Fc61e2471558dd6",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"juror policy\\\",\\\"fileURI\\\":\\\"/ipfs/QmdjogZA7Vhb2u5w6NkwQes5HYRXXppwE6ZvVqGLeYoDp6\\\"}",
+    "fileURI": "/ipfs/QmdjogZA7Vhb2u5w6NkwQes5HYRXXppwE6ZvVqGLeYoDp6"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 315219734,
+    "transactionHash": "0x701ee1df20b8e8b9539da702b0038f358fa02b75c20aa94f2ea288a539b63463",
+    "externalDisputeID": "16",
+    "party": "0xF9eaab27B00b9bBc8FBFA6c58DC2653bef4B461a",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"sdfsdffff\\\",\\\"fileURI\\\":\\\"/ipfs/Qmcx7rhQGXdgFkVo1VxG9dfgeuMrmqPfJJfDmUikgVHT4X\\\"}",
+    "fileURI": "/ipfs/Qmcx7rhQGXdgFkVo1VxG9dfgeuMrmqPfJJfDmUikgVHT4X"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 315250559,
+    "transactionHash": "0xb68cc85a274e90bb6eb347106179f4722f0eaef0bfcd166dc27ca52fa5f3757d",
+    "externalDisputeID": "24",
+    "party": "0x5Ae31b437851B57a491603D6C7A845B61c88F1f5",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"The Policy Framework explicitly states that decisions should be based on objective evidence, including video replays and technological verification.\\\\n\\\\nBelow is a list of evidence needed for a correct ruling:\\\\n\\\\n1) Video Analysis from multiple angles: Clear footage showing whether Alvarez's foot (or another body part) made contact twice\\\\n\\\\nThere are 30 in-stadium cameras that are used in the semi-automated offside system (https://www.goal.com/en-gb/lists/semi-automated-offside-technology-introduced-premier-league-2024-25-season/bltca8f76f4c7a08981). The common consensys is that double touch was not clearly visible from them, TV, or other cameras. The best still shot is attached, coming from https://ca.sports.yahoo.com/news/why-julian-alvarezs-penalty-not-101418630.html\\\\n\\\\n2) Ball Sensor Data: FIFA-approved match balls now include internal sensors capable of detecting extra touches\\\\n\\\\nApparently was not used, according to https://x.com/MiguelDelaney/status/1899963723923521945 (not an official source though)\\\\n\\\\n3) VAR Decision Transcript: The reasoning behind why VAR intervened\\\\n\\\\nQuote:The VAR checked to see if Alvarez touched the ball twice after he slipped. While initial replays broadcast around the world were not conclusive, it was ruled that Alvarez touched the ball with his left foot after he slipped, before kicking with his right. The VAR recommended that the penalty should be disallowed and the VAR decision confirmed: “Atleti player, No19, double touched the ball when the penalty kick was taken.” Source: https://www.independent.co.uk/sport/football/julian-alvarez-penalty-real-madrid-champions-league-b2714099.html\\\\n\\\\n4) Expert Analysis: A breakdown from refereeing experts or officials confirming the rule interpretation\\\\n\\\\nNo additional efforts were made by UEFA to clear up the penalty controversy, as of now https://metro.co.uk/2025/03/13/reason-uefa-not-issued-official-footage-shows-julian-alvarez-double-touch-22718367/\\\\n\\\",\\\"fileURI\\\":\\\"/ipfs/QmNrwiYkzXnxuQXdQ5dAb9g1Zy2Gu5CZsYBiepxNQUmUSE\\\"}",
+    "fileURI": "/ipfs/QmNrwiYkzXnxuQXdQ5dAb9g1Zy2Gu5CZsYBiepxNQUmUSE"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 316804412,
+    "transactionHash": "0x8847eb5e514c6a09f27fe1b73894952f8ca59e4b1d4fe7fe0b9f098056d5d7ed",
+    "externalDisputeID": "24",
+    "party": "0x6687c671980E65ebD722b9146Fc61e2471558dd6",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Kleros Case #24 Analysis: Validity of Julian Alvarez's Penalty Kick\\\\nI. Executive Summary\\\\nThis analysis examines the validity of Julian Alvarez's penalty kick during the Atletico Madrid vs. Real Madrid UEFA Champions League match on March 12, 2025. Based on a systematic evaluation of available evidence and applying relevant football regulations, I conclude that the goal should be ruled INVALID due to a double touch violation. Evidence from multiple credible sources confirms that VAR detected Alvarez touching the ball twice during his kick, which is a clear violation of Law 14 in FIFA's Laws of the Game. Confidence level: 85-90%.\\\\n\\\\nhttps://claude.site/artifacts/e95e5f87-361d-4911-96b2-af1821ab1773\\\",\\\"fileURI\\\":\\\"/ipfs/QmbymggPPp131KqdE3FPf7hBspAKvYjwjfNhJWovzeDXJX\\\"}",
+    "fileURI": "/ipfs/QmbymggPPp131KqdE3FPf7hBspAKvYjwjfNhJWovzeDXJX"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 319725642,
+    "transactionHash": "0x3d6cf45f2646717903533c289e4ce062a8721925e5c85072a3f3b5de98a9ae73",
+    "externalDisputeID": "26",
+    "party": "0x5Ae31b437851B57a491603D6C7A845B61c88F1f5",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Part 1 – Introduction & Initial Lease Agreement\\\\n\\\\nThis clip introduces both parties and outlines the terms of the rental agreement. It shows Mr. Veale paying the deposit and rent upfront and receiving a lease copy. The lease presented by Mr. Veale does not include a “no women” clause, while Ms. Zachreson’s version does. Judge Judy identifies discrepancies between the two versions, laying the foundation for the authenticity dispute.\\\\n\\\\nSupports Mr. Veale: Lease copy lacks the disputed clause.\\\\nSupports Ms. Zachreson: Asserts her version is the original and references Facebook ad and house rules.\\\\n\\\\nOriginal video YouTube URL: https://www.youtube.com/watch?v=FDsS4J8zi5Y\\\",\\\"fileURI\\\":\\\"/ipfs/QmQYsh1tNkA4AcBMHbLKpHyBUpubbfvh8EgQB6QBY3FZjy\\\"}",
+    "fileURI": "/ipfs/QmQYsh1tNkA4AcBMHbLKpHyBUpubbfvh8EgQB6QBY3FZjy"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 319725892,
+    "transactionHash": "0x978b4e37231dbd559d0b827f2b2145360bb178121977ea879f02997062ff9f17",
+    "externalDisputeID": "26",
+    "party": "0x5Ae31b437851B57a491603D6C7A845B61c88F1f5",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Part 2 – Lease Tampering Allegations & Authenticity Debate\\\\n\\\\nThis segment focuses on comparing both lease copies. Judge Judy questions the presence or absence of the “no women / no sleepovers” clause and suggests one copy may have been altered (added or whited out). Neither party can produce a definitive original. Judge Judy also challenges the logic and weight of coffee stains and verbal assertions.\\\\n\\\\nSupports Mr. Veale: No original proves the clause existed.\\\\nSupports Ms. Zachreson: Claims her copy was signed at the table and represents the original agreement.\\\\n\\\\nOriginal video YouTube URL: https://www.youtube.com/watch?v=dq2sEUDjZJA\\\",\\\"fileURI\\\":\\\"/ipfs/QmQDhi9uMHTXqNjaWMKpCoBPyNmhG79CBym5fAvoa9HSTu\\\"}",
+    "fileURI": "/ipfs/QmQDhi9uMHTXqNjaWMKpCoBPyNmhG79CBym5fAvoa9HSTu"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 319726071,
+    "transactionHash": "0xf817c7f02f5603bf0d1c32953b8e34a4df795eefeaa982487f28e2717e47d4fb",
+    "externalDisputeID": "26",
+    "party": "0x5Ae31b437851B57a491603D6C7A845B61c88F1f5",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Part 3 – Protective Order and Criminal History\\\\n\\\\n\\\\nMs. Zachreson explains her fear and discomfort due to Mr. Veale’s criminal past and seeks to justify the eviction based on a protective order. However, Judge Judy notes that the order lacked substantial evidence and that rent was still accepted after those events. Ms. Zachreson also references a Facebook post she perceived as threatening.\\\\n\\\\nSupports Ms. Zachreson: Emotional distress, safety concerns, prior history.\\\\nSupports Mr. Veale: Accepted rent after alleged safety issues undermines claim; protective order deemed legally invalid.\\\\n\\\\nOriginal video YouTube URL: https://www.youtube.com/watch?v=S_dEoqtp4pY\\\",\\\"fileURI\\\":\\\"/ipfs/QmWbpcaLMr5qzqKpwxQnPqKN3sqPkkoB2Tsw8wULK4yTGp\\\"}",
+    "fileURI": "/ipfs/QmWbpcaLMr5qzqKpwxQnPqKN3sqPkkoB2Tsw8wULK4yTGp"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 319726388,
+    "transactionHash": "0x4b94b47e66858dbbbe2243b32d9d020f865e82e54e5a4f9eefa03ada79082ffa",
+    "externalDisputeID": "26",
+    "party": "0x5Ae31b437851B57a491603D6C7A845B61c88F1f5",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Part 4 – Guest Incident and Final Ruling\\\\n\\\\nMs. Zachreson claims to have seen a woman’s car in the driveway, implying Mr. Veale violated the no-guest policy. However, Judge Judy clarifies that the guest was in Veale’s private room and again notes the clause’s validity is unresolved. Text messages are submitted as evidence, but do not conclusively show Veale agreeing to the “no women” rule. Judge Judy rules in favor of Mr. Veale, ordering a $1,500 refund.\\\\n\\\\nSupports Mr. Veale: No definitive policy violation; woman was in private space; unclear lease terms.\\\\nSupports Ms. Zachreson: Testifies consistent discomfort and provides follow-up texts reinforcing guest rules.\\\\n\\\\nOriginal video YouTube URL: https://www.youtube.com/watch?v=pbH0JGBgGCs\\\\n\\\",\\\"fileURI\\\":\\\"/ipfs/QmdnEBxd1vVkaV5j1aE82tT3sJAhQdvAm2aNC2yQctDuEZ\\\"}",
+    "fileURI": "/ipfs/QmdnEBxd1vVkaV5j1aE82tT3sJAhQdvAm2aNC2yQctDuEZ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 321538521,
+    "transactionHash": "0xc42dd6483b711d6d705e03a91bb5dd10972f2f369602ff7c6455806f9bcf6305",
+    "externalDisputeID": "26",
+    "party": "0x21E76a0Fe833ec5bFefbfAf9Ddb9c23439818a8c",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"This juror is not moved by tears either. \\\\n\\\\n- Was the “no women” clause part of the signed and binding lease?\\\\nWith Ms. Zachresons failure to provide the original lease document we are left in a \\\\\\\"word against word\\\\\\\" situation about the contents of the lease and thus the copies will not be used as valid evidence. The burden of proof on the original document containing the \\\\\\\"no women\\\\\\\" clause is on Ms. Zachreson since she used that to evict Mr. Veale and as understood had the requirement to store the original document. The Juror would reconsider the case if the original document would surface and could be proved real by proper forensic methods.\\\\n\\\\n- Does a text message or verbal agreement constitute a valid modification of the lease?\\\\nThe juror is not sure about the law in the United States about the binding of contracts made by text messages or verbal agreement. Anyways there was no evidence provided that Mr. Veal agreed on the modification of the lease terms. Ms. Zacherson can not modify the terms one sidedly.\\\\n\\\\n- Did Ms. Zachreson have just cause to remove Mr. Veale before the lease term ended?\\\\nMs. Zachreson is clearly a serious Karen who does not understand the superior sense of humor that Mr. \\\\\\\"Hot as a pistol\\\\\\\" Veale has and most likely was jealous about Chad Veale bringing in younger and more beautiful women into the property. But this observation does not have standing in the court, just like Ms. Zachresons \\\\\\\"just cause\\\\\\\" for terminating Mr. Veales lease since there is no evidence to back it up.\\\\n\\\\n- Should Mr. Veale be entitled to a refund of any or all of his deposit and rent?\\\\nTo conclude, Ms. Zachreson could not produce enough evidence to support the claim about a \\\\\\\"No women\\\\\\\" clause in the lease contract between the parties. The evidence of the original contract is central part of Ms. Zachresons case and it fails completely without it. In addition no evidence was presented that Mr. Veale agreed on changing the terms of the lease after signing the contract. \\\\nThus Mr. Veale is entitled to a refund of all of his deposit and rent plus additional damages.\\\\n\\\\nI vote NO, in favor of Mr. Veale.\\\\nIn addition I personally rule without any legal backing that Ms Zacheron is to provide the original lease document or apologise to Mr. Veale for acting like a paranoid bitch.\\\\nIn addition I personally rule with strong suggestion that the stupid Americans start to sign two original copies of contracts or start using electronic signing, for example using blockchain technology.\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 325668248,
+    "transactionHash": "0x5003676de0013ad1ab91f54962dcb0d4e418f3092a1191168564aa635491e086",
+    "externalDisputeID": "31",
+    "party": "0x5A7C58176c6f210365D017Ff360fA806C532ee4C",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"The ball with a downward momentum is below the wall. It would have been in play and a home run should not have been given.\\\",\\\"fileURI\\\":\\\"/ipfs/QmRyDc1LpYbhFvkAYUuhfF16iFqniTpE6BA6iKYbA6Ekko\\\"}",
+    "fileURI": "/ipfs/QmRyDc1LpYbhFvkAYUuhfF16iFqniTpE6BA6iKYbA6Ekko"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 325670233,
+    "transactionHash": "0xbd9773c9f434dfd1af9f6d293d7476c4d44bc311109efca1b8db85278fcb6afa",
+    "externalDisputeID": "30",
+    "party": "0x5A7C58176c6f210365D017Ff360fA806C532ee4C",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-14---the-penalty-kick\\\\n\\\\nThe defending goalkeeper must remain on the goal line, facing the kicker, between the goalposts until the ball is kicked. The goalkeeper must not behave\\\\nin a way that unfairly distracts the kicker, e.g. delay the taking of the kick or touch the goalposts, crossbar or goal net.\\\\n\\\\nThe ball is not kicked yet and he is off the goal line.\\\",\\\"fileURI\\\":\\\"/ipfs/QmXPpSEFF1jKhFZJTFbMqbjpecaNxDZvtWeRUDjH5a5fmT\\\"}",
+    "fileURI": "/ipfs/QmXPpSEFF1jKhFZJTFbMqbjpecaNxDZvtWeRUDjH5a5fmT"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 325836136,
+    "transactionHash": "0x0c7b67aefbfe1773952c5c259fc2fd861337b26f2ebcd8472c24a02fb44b37ec",
+    "externalDisputeID": "32",
+    "party": "0x5A7C58176c6f210365D017Ff360fA806C532ee4C",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Clearly headbutting in this youtube short clip\\\\nhttps://www.youtube.com/watch?v=L0PTQ0SwltA\\\",\\\"fileURI\\\":\\\"/ipfs/QmYdjoeEn3Y2JjQDhZM16whb65EhAWvTK6FUQCzi4f7aUn\\\"}",
+    "fileURI": "/ipfs/QmYdjoeEn3Y2JjQDhZM16whb65EhAWvTK6FUQCzi4f7aUn"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 325903955,
+    "transactionHash": "0x67bbdb2a04b7fd5a8c4efeda5f1ae7cb3911f50fdbc25719049349bd11352f7d",
+    "externalDisputeID": "33",
+    "party": "0xC8747AbC6A88BbD20939D83e36295b4defb3989C",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"In his 2011 book “Death by China,” President Donald Trump’s senior adviser Peter Navarro quoted a China hawk named “Ron Vara” to prove his point on the threat posed by Beijing to the American economy.\\\\n\\\\n“Only the Chinese can turn a leather sofa into an acid bath, a baby crib into a lethal weapon, and a cell phone battery into heart-piercing shrapnel,” Vara said. He appears once more in the book and is even referenced in the index.\\\\n\\\\nThere’s just one problem – Vara doesn’t appear to exist, according to an investigation by an Australian academic, who determined that Vara is actually Navarro. Ron Vara is even an anagram of Navarro’s last name.\\\\n\\\\nVara’s true identity was revealed by Australian academic Tessa Morris-Suzuki, a professor emeritus of Japanese history at the Australian National University. She told CNN that she tried to find Vara after being asked to write an article on anti-China rhetoric for a local politics and foreign affairs blog.\\\\n\\\\n“I just looked him up online, assuming he might be some businessman or other, and then he wasn’t there. The more I looked, the more I thought this was really strange,” she said.\\\\n\\\\n“Then I realized the anagram.”\\\\nSource: https://edition.cnn.com/2019/10/16/politics/peter-navarro-ron-vara-trump-china-intl-hnk/index.html\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 326794729,
+    "transactionHash": "0x3dd7e84f85e416286bfd2efe1e44c097433579be7ed71834c4aaf456e2f0aab8",
+    "externalDisputeID": "30",
+    "party": "0x5A7C58176c6f210365D017Ff360fA806C532ee4C",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Funding Yes further to sue the other Juror. He did not read the rules of the play at the time. According to the UEFA 2005 rules it states the following:\\\\n\\\\nFor matches played under the cup (knock-out) system (see 5.01) and the final (see 4.11), kicks from the penalty mark are taken in accordance with the procedure laid down in the Law of the Game promulgated by the IFAB.\\\\n\\\\nSee page 19 (25) of the attached PDF for more information.\\\\n\\\\n\\\\nUnder the IFAB rules of the game from that year it states the following:\\\\n\\\\nThe defending goalkeeper:\\\\n• remains on his goal line, facing the kicker, between the goalposts\\\\nuntil the ball has been kicked\\\\n\\\\nSee the next attached PDF on page 44\\\\n\\\\nHe was not on the goal line before the kick and because of this he was out of play.\\\",\\\"fileURI\\\":\\\"/ipfs/QmdE8piAYicSLhs5ZbLZMjP5NBfmjpgiXE92FZRJYx22Kj\\\"}",
+    "fileURI": "/ipfs/QmdE8piAYicSLhs5ZbLZMjP5NBfmjpgiXE92FZRJYx22Kj"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 326794846,
+    "transactionHash": "0x6389c146f1d0e8d9341071e5cb50125710fa2ab17933ef21ab98ccc613e9e909",
+    "externalDisputeID": "30",
+    "party": "0x5A7C58176c6f210365D017Ff360fA806C532ee4C",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"See attached laws of the game\\\",\\\"fileURI\\\":\\\"/ipfs/Qmf4jNBF78dUQdCAona1Z2ujUzqxByHYAg5RvLW1Sgxeh9\\\"}",
+    "fileURI": "/ipfs/Qmf4jNBF78dUQdCAona1Z2ujUzqxByHYAg5RvLW1Sgxeh9"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 327379361,
+    "transactionHash": "0x3585b52c7c8775575e76d0c8f13e364d3479378f6bd935a737db95c92f6e7def",
+    "externalDisputeID": "34",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo Inicial y Evidencia\\\",\\\"fileURI\\\":\\\"/ipfs/QmVgvLpZUe6P8uNSSRPwa7MSFgrNJzGMmwABHNVH4ya79Z\\\"}",
+    "fileURI": "/ipfs/QmVgvLpZUe6P8uNSSRPwa7MSFgrNJzGMmwABHNVH4ya79Z"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 327379592,
+    "transactionHash": "0x0154c33516ac1a53a70228788ecc46f578d5fa967136f157eb6a96a47dd4bad3",
+    "externalDisputeID": "34",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Segundo Reclamo y Evidencia sobre Licencia de conducir\\\",\\\"fileURI\\\":\\\"/ipfs/QmY8VuujoyLDivaoJsEVw983ZkQ6NmfJNuFhhgtaCx1h1T\\\"}",
+    "fileURI": "/ipfs/QmY8VuujoyLDivaoJsEVw983ZkQ6NmfJNuFhhgtaCx1h1T"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 327379774,
+    "transactionHash": "0x350953803bd38187075c7c99aa7091ed1721c71a52882450e303ec2092c5846c",
+    "externalDisputeID": "34",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmWqHiH5ivBvWJLgM3qwWm7ri1bYLD8VqkuMh9SqhdhcmZ\\\"}",
+    "fileURI": "/ipfs/QmWqHiH5ivBvWJLgM3qwWm7ri1bYLD8VqkuMh9SqhdhcmZ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 327380210,
+    "transactionHash": "0x7b1ab264ed29467a2fe32cdb09bd5be157604576b7fcd6c7ffa942eab7906dee",
+    "externalDisputeID": "34",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Endoso de la Po\\u{301}liza del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmWQYfrWQpGh8CpubLvA4hnAteETLgPeKacpvzL4MLwucY\\\"}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333600148,
+    "transactionHash": "0xa878096ad88c98603c3fbe24ffcd362a394634ed29df45804a57c7190781b60d",
+    "externalDisputeID": "35",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmSQUXkoxYnZWHAvRV6tZ9XaTNFp4YKj2CuzNq6g2FrY4n\\\"}",
+    "fileURI": "/ipfs/QmSQUXkoxYnZWHAvRV6tZ9XaTNFp4YKj2CuzNq6g2FrY4n"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333600318,
+    "transactionHash": "0xc0d09fa5983b099cfa861824f3eac67efc65568a88e767fc0673ea8bae8b460c",
+    "externalDisputeID": "35",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/Qmb8CfHJuHBHNMa64x1a2TimFP68J6mzHVVoT4E9QyBZCv\\\"}",
+    "fileURI": "/ipfs/Qmb8CfHJuHBHNMa64x1a2TimFP68J6mzHVVoT4E9QyBZCv"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333601865,
+    "transactionHash": "0xbefd3bbc706a26d7e41efdff37c93956e05c6018534c22dd1c49a61788c3c0b8",
+    "externalDisputeID": "36",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Wrong case, please select: \\\\\\\"Refuse to arbitrate\\\\\\\".\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333635536,
+    "transactionHash": "0x0613d40865c45cb233268815a314ed98837c937a84fbdb5891cb2bab3571050d",
+    "externalDisputeID": "37",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmaGUHergEzP87GMwVMSfxirzfFBLpKtfRC9T4UWWy6Qxb\\\"}",
+    "fileURI": "/ipfs/QmaGUHergEzP87GMwVMSfxirzfFBLpKtfRC9T4UWWy6Qxb"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333635718,
+    "transactionHash": "0xa3f1ae140b1430d56ad450711e2b34165e390b451e62b79cee8d5b14b24ddc78",
+    "externalDisputeID": "37",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmVcVdEFLwjEwZHvRb5uKgKYdopoA8B7hkKCm9uaMHTRiX\\\"}",
+    "fileURI": "/ipfs/QmVcVdEFLwjEwZHvRb5uKgKYdopoA8B7hkKCm9uaMHTRiX"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333636310,
+    "transactionHash": "0x8c485280866e168905febcfa8d62e3ef24fcd5510fceb7698a0a51cb2b2983f1",
+    "externalDisputeID": "38",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmbNnShZr9EnkKYT2Wj8kaGLzN3Noe7v8bxoRAYtwXQXWb\\\"}",
+    "fileURI": "/ipfs/QmbNnShZr9EnkKYT2Wj8kaGLzN3Noe7v8bxoRAYtwXQXWb"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333636421,
+    "transactionHash": "0x8ebbab194747173f5fffdcbe4428676a02357e7acf9eaf1d3c6db54734f2dad1",
+    "externalDisputeID": "38",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmRVL5fVYtbR9uUCg7j3Bd4CP1YZPZamFNvU7GG1MFgkKf\\\"}",
+    "fileURI": "/ipfs/QmRVL5fVYtbR9uUCg7j3Bd4CP1YZPZamFNvU7GG1MFgkKf"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333636747,
+    "transactionHash": "0x15579f150ccd2b2013384862925a6cd8144ca3a5d5309182039798de4ea5dbe4",
+    "externalDisputeID": "39",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmPm6GE13ERhWvAAdLRvEqmDrnvqxZQjJWDs87R9zyXR5Z\\\"}",
+    "fileURI": "/ipfs/QmPm6GE13ERhWvAAdLRvEqmDrnvqxZQjJWDs87R9zyXR5Z"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333636849,
+    "transactionHash": "0x0effd3315f33e180885b4fcba6d8345e9bc004af177909d92eca40c01982bbab",
+    "externalDisputeID": "39",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmR5xJwpuTYf3fdCMU4HDAPuHYuhaX9t273d2R6yXGzged\\\"}",
+    "fileURI": "/ipfs/QmR5xJwpuTYf3fdCMU4HDAPuHYuhaX9t273d2R6yXGzged"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333637416,
+    "transactionHash": "0xb2da5de8d6e73694c4290ee8d84042d613cc527e98cf2577bc27345b552125a3",
+    "externalDisputeID": "40",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmUYC8uew8BxJgnvadFSDRX8qhtB7gugrn5rDKXZtEmhJM\\\"}",
+    "fileURI": "/ipfs/QmUYC8uew8BxJgnvadFSDRX8qhtB7gugrn5rDKXZtEmhJM"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333637558,
+    "transactionHash": "0xd80d27c1d60cb9332b6f0a6d7001a7587ae81833deab1bb2f0fbb20868faefab",
+    "externalDisputeID": "40",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmP67k7j8orMDYTHJA9nUoaWBf3vJdkqXqbDzbj81K2RVK\\\"}",
+    "fileURI": "/ipfs/QmP67k7j8orMDYTHJA9nUoaWBf3vJdkqXqbDzbj81K2RVK"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333637816,
+    "transactionHash": "0xd2fc5eeda9b33acba5c9d204d54c20d0a4470f638ab02cd9676c741df2fce2ef",
+    "externalDisputeID": "41",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmZAZUCpMw6arNhg9pzh85p3raHy8RnCqiZSeb6wCbuqGs\\\"}",
+    "fileURI": "/ipfs/QmZAZUCpMw6arNhg9pzh85p3raHy8RnCqiZSeb6wCbuqGs"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333637911,
+    "transactionHash": "0x0da409903dca2055124d13516bfb310819b9dbabfd43879cc34fe99c85da5af6",
+    "externalDisputeID": "41",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/Qmb4kbM6gghDnrpgCrPyw3grtaGDcJEHuVZqJLmDstNH7T\\\"}",
+    "fileURI": "/ipfs/Qmb4kbM6gghDnrpgCrPyw3grtaGDcJEHuVZqJLmDstNH7T"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333638240,
+    "transactionHash": "0x0b20ff2a39d3ea28724021bffe3bfc6d2d33c302d44d1d654279bcd49bb00861",
+    "externalDisputeID": "42",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmPaCM42Gzd1LopHzCVi3qm7QEfLArja2duUmAZ4NthLuB\\\"}",
+    "fileURI": "/ipfs/QmPaCM42Gzd1LopHzCVi3qm7QEfLArja2duUmAZ4NthLuB"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333638332,
+    "transactionHash": "0x907e77b851a6b466f458e226718c84986738e3e42b3adcd2f951b0453fa52adb",
+    "externalDisputeID": "42",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmbMtn9vCYmigV7ZfVbTxzdb2renxgexcuUw6i6rLM1evQ\\\"}",
+    "fileURI": "/ipfs/QmbMtn9vCYmigV7ZfVbTxzdb2renxgexcuUw6i6rLM1evQ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333638602,
+    "transactionHash": "0x0f74ef19374c7208b6e65affbd81a82024eab15bae66f459a46c34326d392bc9",
+    "externalDisputeID": "43",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmV1Vn2HSF2p7MfDfgBtMmJaP8KVgbKioXNwQsuttYgvDe\\\"}",
+    "fileURI": "/ipfs/QmV1Vn2HSF2p7MfDfgBtMmJaP8KVgbKioXNwQsuttYgvDe"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333638700,
+    "transactionHash": "0x99003ad454fe2b8d5670f5747d49e565402bc7f1069f0a9291a511f01ce1d786",
+    "externalDisputeID": "43",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmZykuo1vX1ccDZNjJudTWkB2X7CtPoxRaV3kn7gbxv1xj\\\"}",
+    "fileURI": "/ipfs/QmZykuo1vX1ccDZNjJudTWkB2X7CtPoxRaV3kn7gbxv1xj"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333902320,
+    "transactionHash": "0xad2ec387a597df6e4c4c77eeeab49c888d803c65cfa038e86d75a83292ed9fc0",
+    "externalDisputeID": "44",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/Qmc5votJUEfoKUhY1HGp9gj2QMnCwgUxoZmHzxwdLhfmvw\\\"}",
+    "fileURI": "/ipfs/Qmc5votJUEfoKUhY1HGp9gj2QMnCwgUxoZmHzxwdLhfmvw"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333902414,
+    "transactionHash": "0xc58eb2ab3d3c8ea77633584aedf59da3bbce2fba8722071dea1041d39dc3f19a",
+    "externalDisputeID": "44",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmW4gvdNumSMK2Uzd9neJbHSRkRyKrHdqW22p727Ynvzhp\\\"}",
+    "fileURI": "/ipfs/QmW4gvdNumSMK2Uzd9neJbHSRkRyKrHdqW22p727Ynvzhp"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333902656,
+    "transactionHash": "0x1f1738407f91078bc5bbe9a489c2dd86d1c47d9f39d6d6cde69007590d633134",
+    "externalDisputeID": "45",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmVDWWU2CcBL6bBHUnqvWePe5Zecx2VU7g84tyBgE7ALq3\\\"}",
+    "fileURI": "/ipfs/QmVDWWU2CcBL6bBHUnqvWePe5Zecx2VU7g84tyBgE7ALq3"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333902757,
+    "transactionHash": "0x819b4d8d9cba931c8f50660fc1ac1e8ca88e1d0213e0676d1f5212fdb3352df0",
+    "externalDisputeID": "45",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/Qmaf28izBtwS3szJvCZpQPm1KhdHqgfCYC42PsqoN6qETR\\\"}",
+    "fileURI": "/ipfs/Qmaf28izBtwS3szJvCZpQPm1KhdHqgfCYC42PsqoN6qETR"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333902952,
+    "transactionHash": "0x16763dc9c144d29a601a7081bdcad9ad5d7f5568bf29a515a41bab3f22b4515e",
+    "externalDisputeID": "46",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmSptojrTExoVAK5op83SmXMqcMSC7J8Pu33uGKAnQYCnb\\\"}",
+    "fileURI": "/ipfs/QmSptojrTExoVAK5op83SmXMqcMSC7J8Pu33uGKAnQYCnb"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333903040,
+    "transactionHash": "0x77e642065993bb49a0fdd8eda372076d88b88bcfdc32952f3f19e0d12179327d",
+    "externalDisputeID": "46",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmS6p81rzWkvScB6PxDycwhGSqLQkgmibrmRSLzh1CbB6J\\\"}",
+    "fileURI": "/ipfs/QmS6p81rzWkvScB6PxDycwhGSqLQkgmibrmRSLzh1CbB6J"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333903270,
+    "transactionHash": "0xe0e5e3b8f4b08f768cd543f707358431032f2b1ee0ac5e0fee8d8e77e888bd0a",
+    "externalDisputeID": "47",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del usuario.\\\",\\\"fileURI\\\":\\\"/ipfs/QmPkUGq3fhLLPr4KbYM1JXd81NbZ3NwhvSSRJBWTedyNG9\\\"}",
+    "fileURI": "/ipfs/QmPkUGq3fhLLPr4KbYM1JXd81NbZ3NwhvSSRJBWTedyNG9"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333903359,
+    "transactionHash": "0xfc4e15dfffb84323024f84fee6113440219ca21becf07ecef76a098ac24177d4",
+    "externalDisputeID": "47",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmZZtzxguT3LCy7kKHuhcLcJu9RtjMWV3UU8NpoLuJ6Hwc\\\"}",
+    "fileURI": "/ipfs/QmZZtzxguT3LCy7kKHuhcLcJu9RtjMWV3UU8NpoLuJ6Hwc"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333903475,
+    "transactionHash": "0xa25f909dc3491365d7dd7dbd6f9d28f6e89a202ae22b7b1ab7a9f88544838f56",
+    "externalDisputeID": "48",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmeEgrkDRdEPPAtNib4NmxWiFT96bkS1tJ5TzojZ5xeS2B\\\"}",
+    "fileURI": "/ipfs/QmeEgrkDRdEPPAtNib4NmxWiFT96bkS1tJ5TzojZ5xeS2B"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 333903580,
+    "transactionHash": "0x215c53c33529b8bfe42a1bf5f91dbf22ccee25b23a329512c7cbd60a7fe2c581",
+    "externalDisputeID": "48",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/Qmf4dzPADufC8pSFH8iT2GySv5Qe4xohPDUjSvdTMuDYrY\\\"}",
+    "fileURI": "/ipfs/Qmf4dzPADufC8pSFH8iT2GySv5Qe4xohPDUjSvdTMuDYrY"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 334225680,
+    "transactionHash": "0x75995dc74b549be41c8d933ade77b7b66fecc91e4c1c59080d2c86f6150b6494",
+    "externalDisputeID": "50",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmQwUHWcP61nSAMKCuhLLwSzjh5KbZtPyGKLvpyo2Jmj5a\\\"}",
+    "fileURI": "/ipfs/QmQwUHWcP61nSAMKCuhLLwSzjh5KbZtPyGKLvpyo2Jmj5a"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 334226005,
+    "transactionHash": "0xd15f30d3a5bcac3387ecfd339b13c1e7bd3aeb2473a09da5c1e2d7d112ad88f7",
+    "externalDisputeID": "50",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia del Siniestro\\\",\\\"fileURI\\\":\\\"/ipfs/QmZQn6KZ6N8fXCBy1r2Abof2LdSAetj5ft1bQjQiqojARB\\\"}",
+    "fileURI": "/ipfs/QmZQn6KZ6N8fXCBy1r2Abof2LdSAetj5ft1bQjQiqojARB"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 334226119,
+    "transactionHash": "0xfa0af782348ff28abf6382d5a362006ab8cf03dc4a83839e3b60f065977fe6e0",
+    "externalDisputeID": "50",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de MetLife\\\",\\\"fileURI\\\":\\\"/ipfs/QmRpJpB3FWyhHqmPzYHAHhraZxy7DeCFNSqWz2H2uCS6AQ\\\"}",
+    "fileURI": "/ipfs/QmRpJpB3FWyhHqmPzYHAHhraZxy7DeCFNSqWz2H2uCS6AQ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 334229517,
+    "transactionHash": "0xdb4201c192c6dcf224fa09b3475bccedfa184bb4c4af76b36a6ad5ec8b1a1ec4",
+    "externalDisputeID": "50",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales de la Póliza\\\",\\\"fileURI\\\":\\\"/ipfs/QmUKmcBjBmgyEWNVv9yx9M1SAUNCuPDSQTgATQvgjHRrMZ\\\"}",
+    "fileURI": "/ipfs/QmUKmcBjBmgyEWNVv9yx9M1SAUNCuPDSQTgATQvgjHRrMZ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 337048552,
+    "transactionHash": "0xdd313c163b0606eaf4bbf1d6f6e822ef79585285e1fefddbe116c9dfba2f0b85",
+    "externalDisputeID": "51",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Hubo un error al programar las opciones: La opción 1 es \\\\\\\"si, compensar al usuario\\\\\\\".\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 337048853,
+    "transactionHash": "0x01d121d681abb5077cbb8ce90dc390aa7e293b3c2bf4ccf81659758691400a50",
+    "externalDisputeID": "51",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmVj3DJWQmm1QCKThgoZy2dv63uwizoHh6ckHEVZrPzGKQ\\\"}",
+    "fileURI": "/ipfs/QmVj3DJWQmm1QCKThgoZy2dv63uwizoHh6ckHEVZrPzGKQ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 337049022,
+    "transactionHash": "0xb5bd61cd0326fb08fa81ad82aacb9d72ab4ce7b64ca356a50580d0d9c7536aa0",
+    "externalDisputeID": "51",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmQSx5J7ZzhTXgXStRfMAMT2RJQXQEnywXf9KtNdAnamGP\\\"}",
+    "fileURI": "/ipfs/QmQSx5J7ZzhTXgXStRfMAMT2RJQXQEnywXf9KtNdAnamGP"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 339389772,
+    "transactionHash": "0x48a47c60389775b0233897111d35ed4579b3d6bcf7755b23c25f0b3516ba3f74",
+    "externalDisputeID": "52",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmTb1c4m8P7mmv8Xd7WKAvEZ9HzyjyHLtstgvoZeKf5xu7\\\"}",
+    "fileURI": "/ipfs/QmTb1c4m8P7mmv8Xd7WKAvEZ9HzyjyHLtstgvoZeKf5xu7"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 339389985,
+    "transactionHash": "0xcd31329433fa7702785a7601a307249588f00cfd501a0108d58847e40e65f047",
+    "externalDisputeID": "52",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmSmDs9ipHi1PeKSY28BFvCYc675Bm6VvfmB2At4qGEh3B\\\"}",
+    "fileURI": "/ipfs/QmSmDs9ipHi1PeKSY28BFvCYc675Bm6VvfmB2At4qGEh3B"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340835188,
+    "transactionHash": "0xdea63aa4c47faa26b52fe1bd56730963caeba35c8995b63206705213b1baad13",
+    "externalDisputeID": "53",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo del asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmX4AkVgx5fJENfRtJyg1SKtUsVqrq8UNF6NeX7DfTy13x\\\"}",
+    "fileURI": "/ipfs/QmX4AkVgx5fJENfRtJyg1SKtUsVqrq8UNF6NeX7DfTy13x"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340835350,
+    "transactionHash": "0x808d671d707d17dc19a27dfe7ca94bc69eb5b2401166237e39a0de31acb8259a",
+    "externalDisputeID": "53",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia de Concesión de pensión\\\",\\\"fileURI\\\":\\\"/ipfs/QmY9PMGsDeNq42yhkrHkUxeuFXvRBK4cHrxjQMiqT6wL3S\\\"}",
+    "fileURI": "/ipfs/QmY9PMGsDeNq42yhkrHkUxeuFXvRBK4cHrxjQMiqT6wL3S"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340835467,
+    "transactionHash": "0x17fc2669fa24cc21b5d90bc494f818f405e20c2e392aeeb97424d2a5413652f1",
+    "externalDisputeID": "53",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmXKRVFfUrfpT1hseNCJmTa7miET9yqCCXuXtxw2Gi64vc\\\"}",
+    "fileURI": "/ipfs/QmXKRVFfUrfpT1hseNCJmTa7miET9yqCCXuXtxw2Gi64vc"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340835587,
+    "transactionHash": "0xf154ebaa090050726bc40a79c5307da937c0692d886bfc40b980077e6d85e389",
+    "externalDisputeID": "53",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmfTbMif3mZzBRkjegdA296PWxca2DzG9ZqRgqaCSRAxke\\\"}",
+    "fileURI": "/ipfs/QmfTbMif3mZzBRkjegdA296PWxca2DzG9ZqRgqaCSRAxke"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340835704,
+    "transactionHash": "0x1ca7d382829fe2a45ff636f55c44ff8fdaa85e89b77fd61ad2a0263ca008e993",
+    "externalDisputeID": "53",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones de la Póliza\\\",\\\"fileURI\\\":\\\"/ipfs/QmX3B4rC2XuGUYdpPy2c7kSY8zn6rXL969kNVNFRf4sQ5f\\\"}",
+    "fileURI": "/ipfs/QmX3B4rC2XuGUYdpPy2c7kSY8zn6rXL969kNVNFRf4sQ5f"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340840054,
+    "transactionHash": "0x059958d945cd4d7cbdb34741d8f238acba964cfcb7302c2ee0e5e6ecd7ed957f",
+    "externalDisputeID": "56",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmRu91LZ3jUmszCiHP1uWJ4wa4tpsXXy351h5XDQBgHGq3\\\"}",
+    "fileURI": "/ipfs/QmRu91LZ3jUmszCiHP1uWJ4wa4tpsXXy351h5XDQBgHGq3"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340840224,
+    "transactionHash": "0xfd80a9a4f617fdd8299d75c5c248d28d75b540799875cf4c7346f66ac5b0da72",
+    "externalDisputeID": "56",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia y ampliación de reclamo del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmS3BozxxRFNZmEght9cKvMhg4nvyCBSZZTm7kzDui9LR5\\\"}",
+    "fileURI": "/ipfs/QmS3BozxxRFNZmEght9cKvMhg4nvyCBSZZTm7kzDui9LR5"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340840306,
+    "transactionHash": "0xd6d8bc47495d152a195b0ca4f353875c1610f4640d8c6e11ce60370e5fe9db55",
+    "externalDisputeID": "56",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmThtUQ3Eebd6bsaus8cnN6xr352RHrgjBozSVN2pJv7Y6\\\"}",
+    "fileURI": "/ipfs/QmThtUQ3Eebd6bsaus8cnN6xr352RHrgjBozSVN2pJv7Y6"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340840421,
+    "transactionHash": "0x6434c30fb937c02e9a844277430e2c6f3d55a4a4fdff9de1e1bf0419d694480a",
+    "externalDisputeID": "56",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\",\\\"fileURI\\\":\\\"/ipfs/QmcSDwG5QCYCDHz4DGmuupNSSZS8Z6ziPtd6zhuSJ46CK2\\\"}",
+    "fileURI": "/ipfs/QmcSDwG5QCYCDHz4DGmuupNSSZS8Z6ziPtd6zhuSJ46CK2"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340840597,
+    "transactionHash": "0x51cd3673f95e25bda5753687aa9cf90abc89353ef7bd56333173bd97b72ae105",
+    "externalDisputeID": "56",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Ley sobre Contrato de Seguro (México)\\\",\\\"fileURI\\\":\\\"/ipfs/QmcFEvkF5pNo3Pe28KZC5ciFDuWh4SLvBDk57tVnjfT8mC\\\"}",
+    "fileURI": "/ipfs/QmcFEvkF5pNo3Pe28KZC5ciFDuWh4SLvBDk57tVnjfT8mC"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340840943,
+    "transactionHash": "0x895c2cd01b75645c4e516396dcd8789ee28f24d5774081ea7cd466c71ee7a92d",
+    "externalDisputeID": "57",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Solicitud del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmNYRksE6sPFeMoYxuhgF6d5TYgoJi3zt5a9HGeekhUumF\\\"}",
+    "fileURI": "/ipfs/QmNYRksE6sPFeMoYxuhgF6d5TYgoJi3zt5a9HGeekhUumF"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340841064,
+    "transactionHash": "0x388230200c2e1ba837ef81941ae978bbbddec05393f91bef2c62ddb64517d06c",
+    "externalDisputeID": "57",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmVAtEtpjruaAt4k1cJWoCFVuEGBP1tVauPNqzzE8b1Gk3\\\"}",
+    "fileURI": "/ipfs/QmVAtEtpjruaAt4k1cJWoCFVuEGBP1tVauPNqzzE8b1Gk3"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340841171,
+    "transactionHash": "0x19f5afcb4f2358344b9e8705beb18c15500ec5bb926be93461bcc99b5088be0b",
+    "externalDisputeID": "57",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\",\\\"fileURI\\\":\\\"/ipfs/QmWfGJAjWbiC5NYqD4E52AucW6rHKJViuuXdSMLtyxnUHJ\\\"}",
+    "fileURI": "/ipfs/QmWfGJAjWbiC5NYqD4E52AucW6rHKJViuuXdSMLtyxnUHJ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 340841344,
+    "transactionHash": "0xe4f16e3180b710de22b49b8509cf3048d755b81308fc8cd20fa349973e5cee6d",
+    "externalDisputeID": "57",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Ley sobre el Contrato de Seguro (México)\\\",\\\"fileURI\\\":\\\"/ipfs/QmcFEvkF5pNo3Pe28KZC5ciFDuWh4SLvBDk57tVnjfT8mC\\\"}",
+    "fileURI": "/ipfs/QmcFEvkF5pNo3Pe28KZC5ciFDuWh4SLvBDk57tVnjfT8mC"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341109407,
+    "transactionHash": "0xf334bc922402ddcd48e1320e31db31d073234c7768aedc033428abdaaae2590f",
+    "externalDisputeID": "58",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmRokFSSEZwJQD2CnrW9uqjUkK4zNkM63z7DLbFQAwDskm\\\"}",
+    "fileURI": "/ipfs/QmRokFSSEZwJQD2CnrW9uqjUkK4zNkM63z7DLbFQAwDskm"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341109510,
+    "transactionHash": "0x62cb14df8719e501af448b73f9dc355c8b0f97aa215de9db6ee9c1c86f081d36",
+    "externalDisputeID": "58",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmQ59mvUVAx6hcTF3NW9pp3MB876ahogMGzD2NvFyy9xPj\\\"}",
+    "fileURI": "/ipfs/QmQ59mvUVAx6hcTF3NW9pp3MB876ahogMGzD2NvFyy9xPj"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341109691,
+    "transactionHash": "0x37c24495cea5380367584eacd682cab5e5fe5312e0b763151fa43ac0c8ab32ba",
+    "externalDisputeID": "59",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmSxDGdhFst2D9yAqUtycUHZLY7J4AXmNVKYwvoJtKiHJB\\\"}",
+    "fileURI": "/ipfs/QmSxDGdhFst2D9yAqUtycUHZLY7J4AXmNVKYwvoJtKiHJB"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341109792,
+    "transactionHash": "0xbf340235185bebb8a479d2a1e2bc89383bf6f05de93a1e9a70290ba7316c8d52",
+    "externalDisputeID": "59",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmVg8vmvwX9KwfHTiSkLWnESbLvRKytacarCNFGwM868tj\\\"}",
+    "fileURI": "/ipfs/QmVg8vmvwX9KwfHTiSkLWnESbLvRKytacarCNFGwM868tj"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341166313,
+    "transactionHash": "0x078ddc41e5f18d40dad2972e1a2de867a88701f20c660101d7e4e4bd44e5d1f4",
+    "externalDisputeID": "60",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/Qmbt25Ap8zoJG4YKsS17T5naLnQ7JeGRw7gG3Ae2eaUFhB\\\"}",
+    "fileURI": "/ipfs/Qmbt25Ap8zoJG4YKsS17T5naLnQ7JeGRw7gG3Ae2eaUFhB"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341166417,
+    "transactionHash": "0x9290b5e4a6b28ad6369c1f4f9f5f2718916f1019292ba4cbf2eb25ab619e3c88",
+    "externalDisputeID": "60",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia del Siniestro\\\",\\\"fileURI\\\":\\\"/ipfs/QmX6kGrnXJmcaCXyfJpJKaHccqToJdo8Ynh9SBkBQgzuzf\\\"}",
+    "fileURI": "/ipfs/QmX6kGrnXJmcaCXyfJpJKaHccqToJdo8Ynh9SBkBQgzuzf"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341166494,
+    "transactionHash": "0x13a2fb83a6112f09431391ee44db4532c0ec8d2458ecd06f7ae466b12805f5a2",
+    "externalDisputeID": "60",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmdSjBd65U8ksN7VehVb23HfnANZaaa6QM9718JAJJVKtd\\\"}",
+    "fileURI": "/ipfs/QmdSjBd65U8ksN7VehVb23HfnANZaaa6QM9718JAJJVKtd"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341166626,
+    "transactionHash": "0x83077b238f68d02feb79638699ffc836fcd886fff08b31c89a9a0d72c0d7ef62",
+    "externalDisputeID": "60",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Extracto de Condiciones Generales aplicables\\\",\\\"fileURI\\\":\\\"/ipfs/QmaePPwYcfpMXh9wq9qVBnrBjaY25VLZh5CHqvygpR5dXF\\\"}",
+    "fileURI": "/ipfs/QmaePPwYcfpMXh9wq9qVBnrBjaY25VLZh5CHqvygpR5dXF"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341784721,
+    "transactionHash": "0x3a9d7f40a2119a0aad896d4938950792d9a7a8867a4519b95edab7c6a3acd148",
+    "externalDisputeID": "61",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmQynHJzLLrx6etysdM4iwbDLuAKUA9U9zsJHdqhCNqQhw\\\"}",
+    "fileURI": "/ipfs/QmQynHJzLLrx6etysdM4iwbDLuAKUA9U9zsJHdqhCNqQhw"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341785048,
+    "transactionHash": "0xa5567d673689df72b53e0aeb342db9f505335108c1183f557aefd251dfc2630e",
+    "externalDisputeID": "61",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia del caso\\\",\\\"fileURI\\\":\\\"/ipfs/QmarVRcRxBJ8n1AVx1J33WxCLaJfqoJTrNXcx3dxBxorLo\\\"}",
+    "fileURI": "/ipfs/QmarVRcRxBJ8n1AVx1J33WxCLaJfqoJTrNXcx3dxBxorLo"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341785196,
+    "transactionHash": "0x4d0d5d6e45064a589c1135ad4a0726fe20f20084f6e838c05ddcbb5f65f360db",
+    "externalDisputeID": "61",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmPXwTr94dRpuT9rf2aAzPzRkt7MK7Sc5frEuEuHUELKCM\\\"}",
+    "fileURI": "/ipfs/QmPXwTr94dRpuT9rf2aAzPzRkt7MK7Sc5frEuEuHUELKCM"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341785298,
+    "transactionHash": "0x608a50e39d5050c2c8d3de96c8c6712b2073b2a67210a18231d32a0aabdb2182",
+    "externalDisputeID": "61",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Póliza\\\",\\\"fileURI\\\":\\\"/ipfs/QmXzrQzedCsKi3ZCtyszyKt4hB6DiVkv8BsmeK6a7sfndK\\\"}",
+    "fileURI": "/ipfs/QmXzrQzedCsKi3ZCtyszyKt4hB6DiVkv8BsmeK6a7sfndK"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341786384,
+    "transactionHash": "0x22ee53780c5df3e4ec7ce9d7c9920fb136b345868d67183d4cbc26a408b1a2a3",
+    "externalDisputeID": "61",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\",\\\"fileURI\\\":\\\"/ipfs/QmZDg1uU6epJhZRMM7pdt7G4nC5X7ZworoFQgQ7QFmhY2u\\\"}",
+    "fileURI": "/ipfs/QmZDg1uU6epJhZRMM7pdt7G4nC5X7ZworoFQgQ7QFmhY2u"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 341786985,
+    "transactionHash": "0xccf3a20f1104262d9f30338a6e85ae2109c205c67601125cf40bd9fd47247841",
+    "externalDisputeID": "61",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\",\\\"fileURI\\\":\\\"/ipfs/QmZDg1uU6epJhZRMM7pdt7G4nC5X7ZworoFQgQ7QFmhY2u\\\"}",
+    "fileURI": "/ipfs/QmZDg1uU6epJhZRMM7pdt7G4nC5X7ZworoFQgQ7QFmhY2u"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 342173969,
+    "transactionHash": "0x65803c7dc56409a998bbd0721a6d6d846b5df4cb6ada95280064d434ad3a1db0",
+    "externalDisputeID": "62",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/Qmdz76G1CsQ2N9wtQNuhVTZ43vJK6xKEsYtWrZqcTLvi5P\\\"}",
+    "fileURI": "/ipfs/Qmdz76G1CsQ2N9wtQNuhVTZ43vJK6xKEsYtWrZqcTLvi5P"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 342174370,
+    "transactionHash": "0xcc06c15ad46452f62bdef07a98f3cda0f3e9392b48af48deb8682cf7017b2634",
+    "externalDisputeID": "62",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia de pago parcial por fractura\\\",\\\"fileURI\\\":\\\"/ipfs/QmW4zGcsbRqUxcxujxSKd7G6LrPJ2STzDPBoTtwYXLh5qi\\\"}",
+    "fileURI": "/ipfs/QmW4zGcsbRqUxcxujxSKd7G6LrPJ2STzDPBoTtwYXLh5qi"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 342174777,
+    "transactionHash": "0x4c9843748c11f9f4161e27b7ec8aa26a28f2864e8e093d5ed6e9e2191cae92f1",
+    "externalDisputeID": "62",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia restante\\\",\\\"fileURI\\\":\\\"/ipfs/QmTH5FwrQtLAtkL8np7Jvq9N5nkwjD3F89qn4aQAySWH1D\\\"}",
+    "fileURI": "/ipfs/QmTH5FwrQtLAtkL8np7Jvq9N5nkwjD3F89qn4aQAySWH1D"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 342174967,
+    "transactionHash": "0x523a9bf0a05ef888f3bd545297915695aba1874dd62d06435f1b8f991a8c4333",
+    "externalDisputeID": "62",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1er Respuesta de MetLife\\\",\\\"fileURI\\\":\\\"/ipfs/QmWDhRo3eeT1ifAZ7C7LZtCNGN5X22rPT4T6ZMya43sZvM\\\"}",
+    "fileURI": "/ipfs/QmWDhRo3eeT1ifAZ7C7LZtCNGN5X22rPT4T6ZMya43sZvM"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 342175073,
+    "transactionHash": "0x8ce999367171d530e3e4c07d853652acdb7ea73e37cd0413b50d02611aebe809",
+    "externalDisputeID": "62",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"2da Respuesta de MetLife\\\",\\\"fileURI\\\":\\\"/ipfs/QmScqyXosB9eD4EiiepSreTzNYx9xBgpHvbbmy6tb75UZF\\\"}",
+    "fileURI": "/ipfs/QmScqyXosB9eD4EiiepSreTzNYx9xBgpHvbbmy6tb75UZF"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 342175165,
+    "transactionHash": "0xa1fc06f1ba32f1e9738fbf99bc700af4968138cf4566b385ad39c8b8e57d2e2d",
+    "externalDisputeID": "62",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Póliza\\\",\\\"fileURI\\\":\\\"/ipfs/QmacBfsdGzawa8wdnqbiYNDoRzM4fDW5M8tCq9YP3C6cRJ\\\"}",
+    "fileURI": "/ipfs/QmacBfsdGzawa8wdnqbiYNDoRzM4fDW5M8tCq9YP3C6cRJ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 342175307,
+    "transactionHash": "0x056c1aaf94f8d1a9b099fe965aae53ffb0a35dc22a394fc248279b32f503eb08",
+    "externalDisputeID": "62",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\",\\\"fileURI\\\":\\\"/ipfs/QmPP9EVmSpGKjZ4bDupCAzToVkLwkTh7LLwyCRLDuf6V1B\\\"}",
+    "fileURI": "/ipfs/QmPP9EVmSpGKjZ4bDupCAzToVkLwkTh7LLwyCRLDuf6V1B"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 344270191,
+    "transactionHash": "0xe10e7de28921bb6a24f055c2d34ab7575804db703c5d081684d9649307a297be",
+    "externalDisputeID": "63",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Escrito\\\",\\\"fileURI\\\":\\\"/ipfs/QmdsGyUchNzHnXTXj3C8hFXEuMrmYEaJhtM65yQ94wAAfe\\\"}",
+    "fileURI": "/ipfs/QmdsGyUchNzHnXTXj3C8hFXEuMrmYEaJhtM65yQ94wAAfe"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 344270305,
+    "transactionHash": "0x5bf972826275d93cf00b0143449869fac45e640ac736e0ebbb2057ebcfaa149e",
+    "externalDisputeID": "63",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de MetLife\\\",\\\"fileURI\\\":\\\"/ipfs/QmQmuuiAd1cdZzwsqoBQiK3HCgkG8gaEFBX52oscAkpNhF\\\"}",
+    "fileURI": "/ipfs/QmQmuuiAd1cdZzwsqoBQiK3HCgkG8gaEFBX52oscAkpNhF"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 344271839,
+    "transactionHash": "0x6e4b1024a34da6d41c0479ad9364edd0b59ea0ae44a701b2220d30ed9b692fe2",
+    "externalDisputeID": "63",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Recibo de Nómina\\\",\\\"fileURI\\\":\\\"/ipfs/QmSN7bX5R8FY4D2JUyV2WLYAmruDJLSBSpq29V9VqqbiBo\\\"}",
+    "fileURI": "/ipfs/QmSN7bX5R8FY4D2JUyV2WLYAmruDJLSBSpq29V9VqqbiBo"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 344271928,
+    "transactionHash": "0x445ee8f4940b96621ead786efb5b6b2406bfd2ffb9c9a2c59546bb8904a58846",
+    "externalDisputeID": "63",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Póliza\\\",\\\"fileURI\\\":\\\"/ipfs/QmfRaw5kfwpDJrk2Lh3mbBk9EHvsPA4ii7P4G5E23GEDCf\\\"}",
+    "fileURI": "/ipfs/QmfRaw5kfwpDJrk2Lh3mbBk9EHvsPA4ii7P4G5E23GEDCf"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 344272042,
+    "transactionHash": "0x6da1771d3bc94af8fde73b9e8fb196d145b6528f0dfc452bdb336066c9dd56d1",
+    "externalDisputeID": "63",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\",\\\"fileURI\\\":\\\"/ipfs/QmPP9EVmSpGKjZ4bDupCAzToVkLwkTh7LLwyCRLDuf6V1B\\\"}",
+    "fileURI": "/ipfs/QmPP9EVmSpGKjZ4bDupCAzToVkLwkTh7LLwyCRLDuf6V1B"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 344274830,
+    "transactionHash": "0x64a6b2d62f8c76117cae5d4cf1a5990b016148483b0509207379fa2583b29c48",
+    "externalDisputeID": "63",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia del caso\\\",\\\"fileURI\\\":\\\"/ipfs/QmeesyYFMje3kNQVEuWKFHAtF6bynJEW4kDyWGGz5Ya3rR\\\"}",
+    "fileURI": "/ipfs/QmeesyYFMje3kNQVEuWKFHAtF6bynJEW4kDyWGGz5Ya3rR"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 345670667,
+    "transactionHash": "0x20d5786d73bc3e6a2716b714a72b3db60d2b55a0a9870bb8d4b89a07b795987e",
+    "externalDisputeID": "64",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmUp2cmJFW1jBeW1c8AfXengygeiHxLNo4A3QusWCi4gUM\\\"}",
+    "fileURI": "/ipfs/QmUp2cmJFW1jBeW1c8AfXengygeiHxLNo4A3QusWCi4gUM"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 345671223,
+    "transactionHash": "0xbc86f134b05cca2462b06dc3d13290b7b9cd9855231d13aa1cd197a2e30561ec",
+    "externalDisputeID": "64",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de MetLife\\\",\\\"fileURI\\\":\\\"/ipfs/QmQDdPxJSFfqoTg77mtmYER26ngPbekNeChtGCfipEk2mt\\\"}",
+    "fileURI": "/ipfs/QmQDdPxJSFfqoTg77mtmYER26ngPbekNeChtGCfipEk2mt"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 345671358,
+    "transactionHash": "0x316a4c6856f1cf089543adddb525a77b6710b1501399a3c64df5a3b4025ce9b0",
+    "externalDisputeID": "64",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Primera Carta de Rechazo de MetLife\\\",\\\"fileURI\\\":\\\"/ipfs/QmP5NJQma72zKWRWunrC3Uv8dvXtNzp77ocCniQii9BcVX\\\"}",
+    "fileURI": "/ipfs/QmP5NJQma72zKWRWunrC3Uv8dvXtNzp77ocCniQii9BcVX"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 345671518,
+    "transactionHash": "0xab46c48f85c90148be119c6f015d1515af91d8bb9eb8c40a5a57b8a22c9e9195",
+    "externalDisputeID": "64",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Primera Solicitud del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmfBmdBCR2ztCTyzSraTUwnPL7n1PetyMhaMRfUSNwAW22\\\"}",
+    "fileURI": "/ipfs/QmfBmdBCR2ztCTyzSraTUwnPL7n1PetyMhaMRfUSNwAW22"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 345671643,
+    "transactionHash": "0x90da95e30fb851234e276e452ea2941a3cf20a4b6384b32979048563805054f1",
+    "externalDisputeID": "64",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Solicitud de Pago del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmVENruwJegn2Pbi3JqfhqdGaRH6YA1SLM3sUvugh6kuUk\\\"}",
+    "fileURI": "/ipfs/QmVENruwJegn2Pbi3JqfhqdGaRH6YA1SLM3sUvugh6kuUk"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 345671730,
+    "transactionHash": "0x442474f9776402b4c02aed92977f857c377ed779f0063f83cd910146ad637bb1",
+    "externalDisputeID": "64",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Póliza\\\",\\\"fileURI\\\":\\\"/ipfs/QmU7g8mmPqeh2Hm99fSxufo1KMuHVEtSmkgfYTYeUerB3T\\\"}",
+    "fileURI": "/ipfs/QmU7g8mmPqeh2Hm99fSxufo1KMuHVEtSmkgfYTYeUerB3T"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 345671818,
+    "transactionHash": "0xc72b60fe09b41a231774661a3d2a08e604ea761aafebdb1eefbae3c217b31269",
+    "externalDisputeID": "64",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\",\\\"fileURI\\\":\\\"/ipfs/QmRLF6g7CAYbUfkb1t1cG78XdsMqbNdbaJN5hHbYxCciVF\\\"}",
+    "fileURI": "/ipfs/QmRLF6g7CAYbUfkb1t1cG78XdsMqbNdbaJN5hHbYxCciVF"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 347000868,
+    "transactionHash": "0x269ab632931fbd1493477fc10a19d13eb85ba23c85da283a2f4587e6cdd35a89",
+    "externalDisputeID": "65",
+    "party": "0x6687c671980E65ebD722b9146Fc61e2471558dd6",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Images for Review\\\",\\\"fileURI\\\":\\\"/ipfs/Qma4eMo3g7CK816Tg8DkGzDDrZoUz8BUaBUnekNsq6NaDT\\\"}",
+    "fileURI": "/ipfs/Qma4eMo3g7CK816Tg8DkGzDDrZoUz8BUaBUnekNsq6NaDT"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 347017504,
+    "transactionHash": "0x899767547565f531c7a28c0f8a05e297316f9f9b46a363776fc099686b995c66",
+    "externalDisputeID": "66",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmP5oNAK5UqSdbBUBCH1vGHLiuA2AtQrZnMAr1qtBExQTB\\\"}",
+    "fileURI": "/ipfs/QmP5oNAK5UqSdbBUBCH1vGHLiuA2AtQrZnMAr1qtBExQTB"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 347017618,
+    "transactionHash": "0x976e02f968649ec666a903aeeb1d8bcde9f1a6febb12201131e871f49c05a52b",
+    "externalDisputeID": "66",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmTT1QkTWjQ4cJv617wmdpsLqxKAba4FzzxQp1QYYQK9pa\\\"}",
+    "fileURI": "/ipfs/QmTT1QkTWjQ4cJv617wmdpsLqxKAba4FzzxQp1QYYQK9pa"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 347992669,
+    "transactionHash": "0xf4be7598f1e00a82e8e6fe37a76fcf85d6ee7fb42929f914c947c7180b6097f9",
+    "externalDisputeID": "67",
+    "party": "0x6687c671980E65ebD722b9146Fc61e2471558dd6",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Image 1 and Image 2 attached.\\\",\\\"fileURI\\\":\\\"/ipfs/QmYYpso2AYFZ4eqPQKWxm3RqSF1aHnZ7RLArgM5NGKzG4N\\\"}",
+    "fileURI": "/ipfs/QmYYpso2AYFZ4eqPQKWxm3RqSF1aHnZ7RLArgM5NGKzG4N"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 347996935,
+    "transactionHash": "0xeec1780d547e52a4e48d6440306a049dbda3d85b2fecb432ff398ec8fc3a5c97",
+    "externalDisputeID": "68",
+    "party": "0x6687c671980E65ebD722b9146Fc61e2471558dd6",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Image 1 and Image 2 attached.\\\",\\\"fileURI\\\":\\\"/ipfs/QmYYpso2AYFZ4eqPQKWxm3RqSF1aHnZ7RLArgM5NGKzG4N\\\"}",
+    "fileURI": "/ipfs/QmYYpso2AYFZ4eqPQKWxm3RqSF1aHnZ7RLArgM5NGKzG4N"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348311711,
+    "transactionHash": "0xff0202df577ceb13eeb8013fcee75ceacbadba604bb85007bb1305c465c49d92",
+    "externalDisputeID": "69",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Solicitud de pago de cobertura\\\",\\\"fileURI\\\":\\\"/ipfs/QmdWLsmvxeKJLpXiq2EVd66Ao3qGow3BLdUYD8Qt7tBAJQ\\\"}",
+    "fileURI": "/ipfs/QmdWLsmvxeKJLpXiq2EVd66Ao3qGow3BLdUYD8Qt7tBAJQ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348311802,
+    "transactionHash": "0xfe315b75c3bf066f1ba3f12183cb63ebdeda4369a1462a7fb513e1efa41e7909",
+    "externalDisputeID": "69",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmbHud2vU2R4RjKWCNSpsexUNRiDbKkiRoVWjs1xXRQo8u\\\"}",
+    "fileURI": "/ipfs/QmbHud2vU2R4RjKWCNSpsexUNRiDbKkiRoVWjs1xXRQo8u"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348312063,
+    "transactionHash": "0x67669956a830f61b3d477e16a2cbfab35d5ad6405d63eaf95483b321779e6932",
+    "externalDisputeID": "69",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Negatoria de cobertura de MetLife\\\",\\\"fileURI\\\":\\\"/ipfs/QmXjngtcd6hjbMhe1yfsyFkVpRFuJaN6rNxByagFyCadPd\\\"}",
+    "fileURI": "/ipfs/QmXjngtcd6hjbMhe1yfsyFkVpRFuJaN6rNxByagFyCadPd"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348312195,
+    "transactionHash": "0xaf1b1571c031209ff4a67dea0de9189c872fae32cedf11b9c089e588f1c2ec7e",
+    "externalDisputeID": "69",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/Qmb961Gaf5KNTCJUccmLWJcYRzwWE64XPgvEiVo8zW44YT\\\"}",
+    "fileURI": "/ipfs/Qmb961Gaf5KNTCJUccmLWJcYRzwWE64XPgvEiVo8zW44YT"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348312308,
+    "transactionHash": "0x4383ed40830345f76e4a4eb587ff6c59808f9d426fa1b48c1693ed6a28b76b58",
+    "externalDisputeID": "69",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta adicional MetLife\\\",\\\"fileURI\\\":\\\"/ipfs/QmcJ7muCoTb5Sa1aNGiBUsEjRbGcykeB2mi6DXbRf9Qikv\\\"}",
+    "fileURI": "/ipfs/QmcJ7muCoTb5Sa1aNGiBUsEjRbGcykeB2mi6DXbRf9Qikv"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348312417,
+    "transactionHash": "0x32bb3d9ab26e499c458e6eeb78caf36cb9f6bb30fdaeb6f172d6af2bf555326d",
+    "externalDisputeID": "69",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia Médica\\\",\\\"fileURI\\\":\\\"/ipfs/QmZqhj5EqZhVjjWKTFdZa9tNvfXmTMsMuNsJmtVDZn3hbs\\\"}",
+    "fileURI": "/ipfs/QmZqhj5EqZhVjjWKTFdZa9tNvfXmTMsMuNsJmtVDZn3hbs"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348312512,
+    "transactionHash": "0x970869681a783c199f2fe8fb0f499913e8614234c50b6b5ff2893d3c32a28511",
+    "externalDisputeID": "69",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Póliza\\\",\\\"fileURI\\\":\\\"/ipfs/QmfTzxRBLED86Czbo4AXnFkH5AvPEkiyEp89k3Xxk82SFw\\\"}",
+    "fileURI": "/ipfs/QmfTzxRBLED86Czbo4AXnFkH5AvPEkiyEp89k3Xxk82SFw"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348312593,
+    "transactionHash": "0xb837c725e30f6b0d1718052931cd6315ede703900cbed67bf974e7f22d782645",
+    "externalDisputeID": "69",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\",\\\"fileURI\\\":\\\"/ipfs/QmPP9EVmSpGKjZ4bDupCAzToVkLwkTh7LLwyCRLDuf6V1B\\\"}",
+    "fileURI": "/ipfs/QmPP9EVmSpGKjZ4bDupCAzToVkLwkTh7LLwyCRLDuf6V1B"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348420034,
+    "transactionHash": "0x22dbb968b2a8d3e8f12e254330886a3c615b26f72c5b3901eeb6ea7dde7dbdf1",
+    "externalDisputeID": "72",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Documentación del Caso\\\",\\\"fileURI\\\":\\\"/ipfs/QmW33co8Po5hi64v4QEzWSsZ8tttkCuGytBvMwuGwQ5Dr2\\\"}",
+    "fileURI": "/ipfs/QmW33co8Po5hi64v4QEzWSsZ8tttkCuGytBvMwuGwQ5Dr2"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348420742,
+    "transactionHash": "0x76351cb87e777f9b8f0b61be7d998cfdd88acad059b937be0d48a4e7da3178ca",
+    "externalDisputeID": "70",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia del caso\\\",\\\"fileURI\\\":\\\"/ipfs/QmPtAKzQodQ9sYGvBqnAnX2pFue5Ur7tMC657QA97GYkQQ\\\"}",
+    "fileURI": "/ipfs/QmPtAKzQodQ9sYGvBqnAnX2pFue5Ur7tMC657QA97GYkQQ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348421178,
+    "transactionHash": "0x65e318d35d9f08e97b980d3cb142a6aa6cf30e0b59bd55faa5131223a9c40189",
+    "externalDisputeID": "71",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Denuncia caso Obra Social\\\",\\\"fileURI\\\":\\\"/ipfs/QmdbXHXBRmjdgntnWFaeTmMDGyTx31br5grxFC9ocehgzD\\\"}",
+    "fileURI": "/ipfs/QmdbXHXBRmjdgntnWFaeTmMDGyTx31br5grxFC9ocehgzD"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348639072,
+    "transactionHash": "0x00696b7c23fffcccbd9ecf8cb970a883e9282d31c3ea2af6ee3af7718b9a1d13",
+    "externalDisputeID": "73",
+    "party": "0x6687c671980E65ebD722b9146Fc61e2471558dd6",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Image 1 and Image 2 attached .\\\",\\\"fileURI\\\":\\\"/ipfs/QmXysw9UYiPtpdD8t5Lw9Hg1cxUEDgwKDWHKVx3a6Laqcc\\\"}",
+    "fileURI": "/ipfs/QmXysw9UYiPtpdD8t5Lw9Hg1cxUEDgwKDWHKVx3a6Laqcc"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348642449,
+    "transactionHash": "0x04c619f422a3dc083c0ef96aad94fe966393188e1e9434280596f9ed3df53e6f",
+    "externalDisputeID": "74",
+    "party": "0x6687c671980E65ebD722b9146Fc61e2471558dd6",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Image 1 and Image 2 attached.\\\",\\\"fileURI\\\":\\\"/ipfs/QmcckAwBU3Vt7o26C3UaS6Gdyd9yMw3wC75zF1GDs4tNen\\\"}",
+    "fileURI": "/ipfs/QmcckAwBU3Vt7o26C3UaS6Gdyd9yMw3wC75zF1GDs4tNen"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348667439,
+    "transactionHash": "0x828db8e0f73249eecd812a37f18224e1dea12625fc5c2c6cfeaf4b85ccc4c82f",
+    "externalDisputeID": "75",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmVUhBFYbMAc595HdMCS4Wep3UHou6N4tYndvAegXhwLyN\\\"}",
+    "fileURI": "/ipfs/QmVUhBFYbMAc595HdMCS4Wep3UHou6N4tYndvAegXhwLyN"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 348667532,
+    "transactionHash": "0x051e28350bc74b7c8631d1173a064f1fd75242143fbb891f9f02b3e85580f831",
+    "externalDisputeID": "75",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmYUU39oCSY9VNzF2HVZmo11kjQSVMVBRQDxJsQpJUoi5Y\\\"}",
+    "fileURI": "/ipfs/QmYUU39oCSY9VNzF2HVZmo11kjQSVMVBRQDxJsQpJUoi5Y"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 352184928,
+    "transactionHash": "0x91c1d1c105fc6a4d7297d20d7cff51afe4b25b84aa7667ef3226d14bef413e6c",
+    "externalDisputeID": "76",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo y sentencia judicial\\\\n\\\",\\\"fileURI\\\":\\\"/ipfs/QmWN1niWfsSv9Dp44bZqct974AsJnh1icRchQ7VWpeQTVh\\\"}",
+    "fileURI": "/ipfs/QmWN1niWfsSv9Dp44bZqct974AsJnh1icRchQ7VWpeQTVh"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 352185011,
+    "transactionHash": "0x75ed87ca00c2db8853586c7a5cc649ad872b0dac6cb9efbf7d76a4bade295a6d",
+    "externalDisputeID": "76",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmVnvYHDPgagHmoaUd2makT3VRkRgbpv6XyAcA9bGsQy9y\\\"}",
+    "fileURI": "/ipfs/QmVnvYHDPgagHmoaUd2makT3VRkRgbpv6XyAcA9bGsQy9y"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 352185117,
+    "transactionHash": "0x106a651ed9dc189eec21e11f76a032a42b72e8e43c24f0fa6d1e4c298c119861",
+    "externalDisputeID": "76",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Póliza 1\\\",\\\"fileURI\\\":\\\"/ipfs/QmSakjMfdv9YWDxd1wX6ErGLt1MHKhK5ahFMu6m2fTx9G4\\\"}",
+    "fileURI": "/ipfs/QmSakjMfdv9YWDxd1wX6ErGLt1MHKhK5ahFMu6m2fTx9G4"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 352185200,
+    "transactionHash": "0xb0c6e65c11dbc9977261d548c05ac8ceca869c8f4badfcd18a0fee89d959a833",
+    "externalDisputeID": "76",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Póliza 2\\\",\\\"fileURI\\\":\\\"/ipfs/QmWrZFbfmygZSFWMzM7JQR3fuz72o5q69DYiUsob5754mq\\\"}",
+    "fileURI": "/ipfs/QmWrZFbfmygZSFWMzM7JQR3fuz72o5q69DYiUsob5754mq"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 352185286,
+    "transactionHash": "0x2ddb70319690870ffbd598da8073d0002b4643457f2bcf989a2d43666b30eef1",
+    "externalDisputeID": "76",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\\n\\\",\\\"fileURI\\\":\\\"/ipfs/QmTfx5xGD6gJArWaTSGp1r9UmF6Ey5WHtwGeuWEwSobQWs\\\"}",
+    "fileURI": "/ipfs/QmTfx5xGD6gJArWaTSGp1r9UmF6Ey5WHtwGeuWEwSobQWs"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 353088959,
+    "transactionHash": "0xab2b6ec510f80469e4a67e60a0865ba5393b928c7e3cb36fade7423ba3e014ef",
+    "externalDisputeID": "77",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmZqxepaQKBjFA4QQNMgwdUTPgZMEys8eSdCnWRQgktDDo\\\"}",
+    "fileURI": "/ipfs/QmZqxepaQKBjFA4QQNMgwdUTPgZMEys8eSdCnWRQgktDDo"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 353089040,
+    "transactionHash": "0xda9b1f28f9d9fa4ff6542f952619e1216274d2d5fc47d8b5a4a54f6e05b651d1",
+    "externalDisputeID": "77",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmQMsnyfXkCx1NwJ4rJ18aob9ergL9mRz9JqYoKUFS92XN\\\"}",
+    "fileURI": "/ipfs/QmQMsnyfXkCx1NwJ4rJ18aob9ergL9mRz9JqYoKUFS92XN"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 353089265,
+    "transactionHash": "0xf2db3e3df9fa96766faead57dfbb43e7da124286de3bf7376476b1f13a090e96",
+    "externalDisputeID": "78",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmUirDW5wNb6Xa432JJKiqnmSy69yNyAcNGAxj3q8SQD7n\\\"}",
+    "fileURI": "/ipfs/QmUirDW5wNb6Xa432JJKiqnmSy69yNyAcNGAxj3q8SQD7n"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 353089377,
+    "transactionHash": "0x06402296862ee43651838e47ae0ed9b17a5e2511dd465481d9457da4cc80ff8b",
+    "externalDisputeID": "78",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmQpxDNCU4nMEDD1Bi32HUAJLdqMLYcNcR2qGZo1rHUdJs\\\"}",
+    "fileURI": "/ipfs/QmQpxDNCU4nMEDD1Bi32HUAJLdqMLYcNcR2qGZo1rHUdJs"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 353089533,
+    "transactionHash": "0x9c4a561956745a312977df1fe42f9db3929d699fbb4d032c7bbc462bc2196f85",
+    "externalDisputeID": "79",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmRCMQZWCiPvcpTH8Jgj1F2hzmonawHcFatnRBm5NQH831\\\"}",
+    "fileURI": "/ipfs/QmRCMQZWCiPvcpTH8Jgj1F2hzmonawHcFatnRBm5NQH831"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 353089610,
+    "transactionHash": "0x7d1686de94c655f2f45c16b131a58a2726e11fc82dbadeb22f492a1fdf09212b",
+    "externalDisputeID": "79",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmfW9xLEFBowAaoVwrTB1c4SRnxWr2DTZiSduQoCAKT1Yv\\\"}",
+    "fileURI": "/ipfs/QmfW9xLEFBowAaoVwrTB1c4SRnxWr2DTZiSduQoCAKT1Yv"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 356349632,
+    "transactionHash": "0xcc26652353585e2c1c38438dfb9f261a18d2e991c007641533ce8e12745fdb01",
+    "externalDisputeID": "80",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Demanda\\\",\\\"fileURI\\\":\\\"/ipfs/QmXFZgwc89m5ymwjUn94xvL36jgATpJhXQw1Xcy14P5vS5\\\"}",
+    "fileURI": "/ipfs/QmXFZgwc89m5ymwjUn94xvL36jgATpJhXQw1Xcy14P5vS5"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 356349806,
+    "transactionHash": "0x10fd9838634b635663157292dd5037ccdf2cf0285b28dd1b0d9383b6578870a3",
+    "externalDisputeID": "80",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Contrato de tarjeta y resúmenes\\\",\\\"fileURI\\\":\\\"/ipfs/QmcdKVFgJPmYJKu1jH1q3u1GyPNU6HjZU4Z6w3DynjsDyh\\\"}",
+    "fileURI": "/ipfs/QmcdKVFgJPmYJKu1jH1q3u1GyPNU6HjZU4Z6w3DynjsDyh"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 358311699,
+    "transactionHash": "0x2bfd68d8c0f37200dc706b34cdadc5d43490c7b34f9e30eaf49626d5f7197862",
+    "externalDisputeID": "81",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmYHDLeSaaKqFNMseKmpJwddmLQsMi66M5HNjH7ZfENiba\\\"}",
+    "fileURI": "/ipfs/QmYHDLeSaaKqFNMseKmpJwddmLQsMi66M5HNjH7ZfENiba"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 358311800,
+    "transactionHash": "0xe1ce7969140b45a790fd190db77dca586616e31c5137f1ed707dc649eddb1e6d",
+    "externalDisputeID": "81",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmQjBHCaEy6Z32uzTr26i2vmXwiF4HkjiJ29Nn3wdFNpYQ\\\"}",
+    "fileURI": "/ipfs/QmQjBHCaEy6Z32uzTr26i2vmXwiF4HkjiJ29Nn3wdFNpYQ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 358402475,
+    "transactionHash": "0xb717224c0ff32d7746fa30fedf593de0140b267dd35d6f3993aa126336e9052e",
+    "externalDisputeID": "82",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo del Asegurado\\\",\\\"fileURI\\\":\\\"/ipfs/QmWqNtx4ekvcVdiSKcrwecnfBNdJp8oqRwGNaNjsMPTi6N\\\"}",
+    "fileURI": "/ipfs/QmWqNtx4ekvcVdiSKcrwecnfBNdJp8oqRwGNaNjsMPTi6N"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 358402556,
+    "transactionHash": "0x3473074b8d86a7c3014d742f3782bddf84e72cc47729e87b056203b60798b270",
+    "externalDisputeID": "82",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Respuesta de Metlife\\\",\\\"fileURI\\\":\\\"/ipfs/QmeEraqMUtUVi2dfJbUE8hDLSnarq871CF7otW7LEGgEC4\\\"}",
+    "fileURI": "/ipfs/QmeEraqMUtUVi2dfJbUE8hDLSnarq871CF7otW7LEGgEC4"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 358402661,
+    "transactionHash": "0xdbd0e04301318796266ef4d0b0d381a510ca15950af4ab2aea1d37b553dbd22a",
+    "externalDisputeID": "82",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia del Caso\\\",\\\"fileURI\\\":\\\"/ipfs/QmUmRZES1C8RsiXHpu5H6QZ6B83cv4Esji4ByLRdBWiHAq\\\"}",
+    "fileURI": "/ipfs/QmUmRZES1C8RsiXHpu5H6QZ6B83cv4Esji4ByLRdBWiHAq"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 358402771,
+    "transactionHash": "0xc46727b769f4e8c8ee2bdbc9ac47eefca5b1995c3bd5c40708466c5d46094255",
+    "externalDisputeID": "82",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Póliza\\\",\\\"fileURI\\\":\\\"/ipfs/QmQkcXkQL6gzqopu5FQkbDUtjafn4dndhcm7Yqr4SeFkX2\\\"}",
+    "fileURI": "/ipfs/QmQkcXkQL6gzqopu5FQkbDUtjafn4dndhcm7Yqr4SeFkX2"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 358402864,
+    "transactionHash": "0xea4547fcbf661e019e661dd640bf4fda8704f2c8beb07cbddfdb512fe43542d2",
+    "externalDisputeID": "82",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Condiciones Generales\\\",\\\"fileURI\\\":\\\"/ipfs/QmQc9ykcAVhH4tcMZDpHnENBFhJsGm7uEB73FF97SfhacS\\\"}",
+    "fileURI": "/ipfs/QmQc9ykcAVhH4tcMZDpHnENBFhJsGm7uEB73FF97SfhacS"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 361529021,
+    "transactionHash": "0x26aba123a395993e41bba5a489b0e31fc43a4e24b54c46cc3e47ae770815b7fa",
+    "externalDisputeID": "83",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmY2opdJuA6zgT59FWKHnazS9CvFrNLfdW8mSutXLgJYYJ\\\"}",
+    "fileURI": "/ipfs/QmY2opdJuA6zgT59FWKHnazS9CvFrNLfdW8mSutXLgJYYJ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 361529184,
+    "transactionHash": "0x5bb235c73339d319c5e00bc1fca3d8f589d86ecda2792d54f45d55cf52678100",
+    "externalDisputeID": "83",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmYmrC7vB2CNt8B5L5SaJQi6dKLvoUsUikJqRUaGqhJx1n\\\"}",
+    "fileURI": "/ipfs/QmYmrC7vB2CNt8B5L5SaJQi6dKLvoUsUikJqRUaGqhJx1n"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 365659701,
+    "transactionHash": "0x4ce77db822c3b0e817d2785fa5e70b54b8ef7c280ebece806caaf4a2fc984b7e",
+    "externalDisputeID": "84",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Caso Junín 1\\\",\\\"fileURI\\\":\\\"/ipfs/QmUrjpLwSVPnYckDaxJNYWwgrm3NjbhBv4vgtjixDf7bbS\\\"}",
+    "fileURI": "/ipfs/QmUrjpLwSVPnYckDaxJNYWwgrm3NjbhBv4vgtjixDf7bbS"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 365659846,
+    "transactionHash": "0x598a89692a373de0cba8d820b3bb70338149cac5759ee000b928986e867cde02",
+    "externalDisputeID": "85",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Caso Junín 2\\\",\\\"fileURI\\\":\\\"/ipfs/QmQohPRZZRrQTmtUo9QDgqJeDeknwQoUj2wqcWRoxtmYiU\\\"}",
+    "fileURI": "/ipfs/QmQohPRZZRrQTmtUo9QDgqJeDeknwQoUj2wqcWRoxtmYiU"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 365982333,
+    "transactionHash": "0x773a57c39862b626dd5b41bce51e5af1471581818db96814a68ef0ec5e7e6c4c",
+    "externalDisputeID": "86",
+    "party": "0xf1C7c037891525E360C59f708739Ac09A7670c59",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Face of submitter on video does not follow requirements of section 2 as required by the last bullet of section 4 from the PoH registry policy: facial features must be visible. The chin is completely covered by the sign during the total duration of the video, and might voluntarily or involuntarily, distract humans or algorithms from being able to detect identical faces. Check precedent cases on the Court v1: #960 and #1129, #1203, #1206, #1223 and #1232.\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 366050669,
+    "transactionHash": "0x63f43fd85b53c81517042f101671dc2b611603a2f20776eba9f0130a11703ecf",
+    "externalDisputeID": "87",
+    "party": "0x6687c671980E65ebD722b9146Fc61e2471558dd6",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Image 1 and Image 2 attached.\\\",\\\"fileURI\\\":\\\"/ipfs/Qmdxf7FKqEfM6w1sx2JAn1oF7vQx13Y2QQX244UfwNsnVU\\\"}",
+    "fileURI": "/ipfs/Qmdxf7FKqEfM6w1sx2JAn1oF7vQx13Y2QQX244UfwNsnVU"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 366411095,
+    "transactionHash": "0x3c5db330c545d6c92e27402fb265c198722ebcce04fc3502607c168ef288f411",
+    "externalDisputeID": "88",
+    "party": "0xf1C7c037891525E360C59f708739Ac09A7670c59",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Face of submitter on video does not follow requirements of section 2 as required by the last bullet of section 4 from the PoH registry policy: facial features must be visible. The chin is completely covered by the sign during the total duration of the video, and might voluntarily or involuntarily, distract humans or algorithms from being able to detect identical faces. Check precedent cases on the Court v1: #960 and #1129, #1203, #1206, #1223 and #1232.\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 366414664,
+    "transactionHash": "0xe40c8e5c48ec706d0d455396763bf2a0808891dc718c9e2e754c9b88b07b5fe7",
+    "externalDisputeID": "89",
+    "party": "0xf1C7c037891525E360C59f708739Ac09A7670c59",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Face of submitter on video does not follow requirements of section 2 as required by the last bullet of section 4 from the PoH registry policy: facial features must be visible. The chin is completely covered by the sign during the total duration of the video, and might voluntarily or involuntarily, distract humans or algorithms from being able to detect identical faces. Check precedent cases on the Court v1: #960 and #1129, #1203, #1206, #1223 and #1232.\\\",\\\"fileURI\\\":null}",
+    "fileURI": null
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 367331002,
+    "transactionHash": "0xc60d3983b4ea9de0ef6d72a6772fc8a43a8ff32aafc3b9b15ab3fee126a9cb53",
+    "externalDisputeID": "90",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmPwDc4uikpXFMrAeNiUd79r5XKYaYrSdGzUqAzJz7wYza\\\"}",
+    "fileURI": "/ipfs/QmPwDc4uikpXFMrAeNiUd79r5XKYaYrSdGzUqAzJz7wYza"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 367331099,
+    "transactionHash": "0xbbe5e41496eeb8b51795c5b6c3afda3155a51072ab2a490d68530d054db200a1",
+    "externalDisputeID": "90",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmdgQdtKUyKyV8sFcPEkPUfTCmKf2LEtfmwXTsNDzQdXQ9\\\"}",
+    "fileURI": "/ipfs/QmdgQdtKUyKyV8sFcPEkPUfTCmKf2LEtfmwXTsNDzQdXQ9"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 367770864,
+    "transactionHash": "0xe42f8b570323336bd5c8625e1a9446705c265adbd741c5ebce947f02ffcaf5b5",
+    "externalDisputeID": "91",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo contra Aerolínea\\\",\\\"fileURI\\\":\\\"/ipfs/QmSAjgb9LaYuLkHpvmrXc4Bm91uNAnogCD4sp9YFVAyjFR\\\"}",
+    "fileURI": "/ipfs/QmSAjgb9LaYuLkHpvmrXc4Bm91uNAnogCD4sp9YFVAyjFR"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 367773418,
+    "transactionHash": "0xc72bfe03646a5f655dc7bf4904027188d0a90d8bb06ecf91c7f6ebd9a0629f5b",
+    "externalDisputeID": "92",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo contra Aerolínea\\\",\\\"fileURI\\\":\\\"/ipfs/QmNwKyVMsxgxB4LkWBziRn5d31BfVD5R7PbU93hCAa5boh\\\"}",
+    "fileURI": "/ipfs/QmNwKyVMsxgxB4LkWBziRn5d31BfVD5R7PbU93hCAa5boh"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 367773566,
+    "transactionHash": "0x2f3427044b2ed5c2121d99ae2ee37b364a794eb25eabd11cdb93f88c36c74351",
+    "externalDisputeID": "93",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo por servicio de transporte\\\",\\\"fileURI\\\":\\\"/ipfs/QmZASHtZnSXGnKVaAi142rCXXakJFMRxLR3MKnxRN2ShiM\\\"}",
+    "fileURI": "/ipfs/QmZASHtZnSXGnKVaAi142rCXXakJFMRxLR3MKnxRN2ShiM"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 373943241,
+    "transactionHash": "0x250370f4fd152266215a34e7d706e019eb571ec066b5a9beeb04204fb37d27b2",
+    "externalDisputeID": "97",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo 6\\\",\\\"fileURI\\\":\\\"/ipfs/QmTe3dEys3khUyHiHceFhpsHpwxtEbGpwj2RKQWEScuMY9\\\"}",
+    "fileURI": "/ipfs/QmTe3dEys3khUyHiHceFhpsHpwxtEbGpwj2RKQWEScuMY9"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 373943500,
+    "transactionHash": "0x325c945ca1d8b230a43364bf4170227d7ca6471c85e8565046de020c6f95bfae",
+    "externalDisputeID": "98",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Reclamo 7\\\",\\\"fileURI\\\":\\\"/ipfs/QmT2fk2QSvkSPZk4a3uzUtv6YZAXfFZsDvPHTVFzW1G2wq\\\"}",
+    "fileURI": "/ipfs/QmT2fk2QSvkSPZk4a3uzUtv6YZAXfFZsDvPHTVFzW1G2wq"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 375755165,
+    "transactionHash": "0x581a8e4b405b368a42b628b229b6531ecfbf541147cd89dbe5131d03624d7203",
+    "externalDisputeID": "100",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Caso 8\\\",\\\"fileURI\\\":\\\"/ipfs/QmbwUyVHFrR6toA5abKDxnpHwWF4RGnyJZxZgJwTk3wPCu\\\"}",
+    "fileURI": "/ipfs/QmbwUyVHFrR6toA5abKDxnpHwWF4RGnyJZxZgJwTk3wPCu"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 375755977,
+    "transactionHash": "0x5e0b01f0ab6627fb5406116d893858117ca697a1d402fa66fdeab4e2466e6705",
+    "externalDisputeID": "101",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Caso 9\\\",\\\"fileURI\\\":\\\"/ipfs/Qmcy1K1uABaTT9SzSyPgVbebSCixx3fzpEpvARxH98ZHaV\\\"}",
+    "fileURI": "/ipfs/Qmcy1K1uABaTT9SzSyPgVbebSCixx3fzpEpvARxH98ZHaV"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 375798502,
+    "transactionHash": "0x3280288c6938bdef0a3ad83f161875e2257282b2fe53ab35a47c2a9dd890de7b",
+    "externalDisputeID": "102",
+    "party": "0xdde30F65a38bAf8ae553843Fc99735d7E2c4E7cc",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"I purchased a gift card from the seller and successfully completed payment. Transaction proof: https://arbiscan.io/tx/0x119b23d91bb26e71c07116d4c5b980305ec13e0bdbe6c4f463dc2bbab9c3f330.\\\\n\\\\nHowever, after the payment, the seller ignored my messages and failed to provide the gift card redeem code. I made multiple attempts to contact the seller, but no response was given.\\\\n\\\\nI am filing this dispute because I have fulfilled my obligation by paying, but the seller has not delivered the agreed product (gift card code).\\\",\\\"fileURI\\\":\\\"/ipfs/QmTVAbYS8LH7NNAgzW8fwrNpw7RHatNHZ6jb9dEVztW2QB\\\"}",
+    "fileURI": "/ipfs/QmTVAbYS8LH7NNAgzW8fwrNpw7RHatNHZ6jb9dEVztW2QB"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 377705945,
+    "transactionHash": "0x1a596723a5e8a5c893d2922cd716cb27ee6a1de6f469fc28d568252c6615fb43",
+    "externalDisputeID": "103",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 10\\\",\\\"fileURI\\\":\\\"/ipfs/QmaNKhc7KQuFDEGgm9hbsuVKQiEDzEC4rbEMxZM6nLfpQP\\\"}",
+    "fileURI": "/ipfs/QmaNKhc7KQuFDEGgm9hbsuVKQiEDzEC4rbEMxZM6nLfpQP"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 378479551,
+    "transactionHash": "0xa6f5bff97f64347edfaab9d249a9e206b692d800be51b9a761c632d391db45e5",
+    "externalDisputeID": "104",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 11\\\",\\\"fileURI\\\":\\\"/ipfs/QmRWCKZi26zxQ9j39wUnHzyo1RyWNb6ju2Tpi7X2WowJMN\\\"}",
+    "fileURI": "/ipfs/QmRWCKZi26zxQ9j39wUnHzyo1RyWNb6ju2Tpi7X2WowJMN"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 378480480,
+    "transactionHash": "0x7f23b96eefc81c2446fcb24df7e4b19e9932820645bff86b79d07d030111046c",
+    "externalDisputeID": "105",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente caso 12\\\",\\\"fileURI\\\":\\\"/ipfs/QmVNuc4KU8QobZNmLSLt7Fnw2GREYNHzHJnKGgPKtxtJQ9\\\"}",
+    "fileURI": "/ipfs/QmVNuc4KU8QobZNmLSLt7Fnw2GREYNHzHJnKGgPKtxtJQ9"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 379790994,
+    "transactionHash": "0x6c510640deb92a684cf8558ad6f0215ae2db54f62e62bbfe6e328bb53c1cdfb9",
+    "externalDisputeID": "106",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmTCopfPLEmPuvEHZKBh9rVpencV4mJ7oKzzkHirUM6Xik\\\"}",
+    "fileURI": "/ipfs/QmTCopfPLEmPuvEHZKBh9rVpencV4mJ7oKzzkHirUM6Xik"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 379791097,
+    "transactionHash": "0x43fd82570e6ca60feb92b44fe817fe8d4e9841e9b738e26a9cb4b81441c68fab",
+    "externalDisputeID": "106",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmXyxjR1DNiXnJAjap4sHme7N7Rz9D3rG6tkrRZ2iTn2kM\\\"}",
+    "fileURI": "/ipfs/QmXyxjR1DNiXnJAjap4sHme7N7Rz9D3rG6tkrRZ2iTn2kM"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 384653133,
+    "transactionHash": "0x22b98bdceb51f54fb8de9774aa78c91c7c6e9e9d7447345a3caaa9530cfc5574",
+    "externalDisputeID": "107",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"TyC El Dorado\\\",\\\"fileURI\\\":\\\"/ipfs/QmXHAn16fdMpW4JC3JVVczBqxYCiJcS6q2swTEy5qF7MGz\\\"}",
+    "fileURI": "/ipfs/QmXHAn16fdMpW4JC3JVVczBqxYCiJcS6q2swTEy5qF7MGz"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 384653598,
+    "transactionHash": "0x2ed854e23f9f41484b69d84f9cf312297d15496ee89eecc97a4666dcb0eb2551",
+    "externalDisputeID": "107",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Documento Explicativo de Caso de Atención al Cliente\\\",\\\"fileURI\\\":\\\"/ipfs/QmagqVDNUjv2a6DTam6SuDmp7vPWYQtZHM21esJ57bty6w\\\"}",
+    "fileURI": "/ipfs/QmagqVDNUjv2a6DTam6SuDmp7vPWYQtZHM21esJ57bty6w"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 391900694,
+    "transactionHash": "0x19c5739000cb3229764d029be91cdda2040f6057c126a767495366a3db6bf3cd",
+    "externalDisputeID": "108",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmczLigFqhhtFQdBQbhXyTuhAGfgB21Cf8pLRBuTVrtkhx\\\"}",
+    "fileURI": "/ipfs/QmczLigFqhhtFQdBQbhXyTuhAGfgB21Cf8pLRBuTVrtkhx"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 391900806,
+    "transactionHash": "0xf39cf31c7a21e8676f5101dd0f27f941c31f6a4018297f4480ed2736b0d3f17a",
+    "externalDisputeID": "108",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmacXzD4CMp85WZZfRu5QUh1KJ2yBfKkHY3391U7YmjF6F\\\"}",
+    "fileURI": "/ipfs/QmacXzD4CMp85WZZfRu5QUh1KJ2yBfKkHY3391U7YmjF6F"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 391920029,
+    "transactionHash": "0xd961a9026d55ea07fa8d1fe9b484a4813ba089ab6dbe00b9069fc7c2db6249a9",
+    "externalDisputeID": "109",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmWDMSMugxCrAy8ToHMUfzim1kYtoJkGuS9dTcmyyRErxZ\\\"}",
+    "fileURI": "/ipfs/QmWDMSMugxCrAy8ToHMUfzim1kYtoJkGuS9dTcmyyRErxZ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 391920182,
+    "transactionHash": "0xc6586747fc1bca529ac60251afdf1b3d02125f9522d5fee2fc983af41711ce36",
+    "externalDisputeID": "109",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/Qmcy6GVgTUYwFFNQNNZ46x9LZJBhdXpGcfYyELyyCsBCMy\\\"}",
+    "fileURI": "/ipfs/Qmcy6GVgTUYwFFNQNNZ46x9LZJBhdXpGcfYyELyyCsBCMy"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 392324035,
+    "transactionHash": "0x947b84237b2e0918260cf31a0086999a7d707910a58e35d53ed121d09e524d2c",
+    "externalDisputeID": "110",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 13\\\",\\\"fileURI\\\":\\\"/ipfs/QmeAqdz3gpWkhSNbxNt1Kf3tDNv8oTeZnkLFK8HFBxkxJt\\\"}",
+    "fileURI": "/ipfs/QmeAqdz3gpWkhSNbxNt1Kf3tDNv8oTeZnkLFK8HFBxkxJt"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 392348929,
+    "transactionHash": "0xfbd6fe4750a12e01186f9b413e7d88691ffe126a712abf62e730318b9a0dc38a",
+    "externalDisputeID": "111",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Acta Policial\\\",\\\"fileURI\\\":\\\"/ipfs/QmNPCsoYqDXxBJQmLaAztFvkN4GSWopXKdLQiotDg66CcS\\\"}",
+    "fileURI": "/ipfs/QmNPCsoYqDXxBJQmLaAztFvkN4GSWopXKdLQiotDg66CcS"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 393641339,
+    "transactionHash": "0x0c8ddd5048aada8c221fc71ba09a7afb344aa04aa1f254b7a24917dec8c98a6a",
+    "externalDisputeID": "112",
+    "party": "0x9E51BbD7584aFd0FB2E4bddAB37f23A9f192d30a",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"ACTOR\\\",\\\"fileURI\\\":\\\"/ipfs/Qmf8rY6AEZFV9WheTvnk78TRFWoAzqP8sfYxtffv6EzTvN\\\"}",
+    "fileURI": "/ipfs/Qmf8rY6AEZFV9WheTvnk78TRFWoAzqP8sfYxtffv6EzTvN"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 393642354,
+    "transactionHash": "0xcfc296ac51a3d56590dcb7fb9e4fab2eadc2a77e325c1518feb8dd863c73d690",
+    "externalDisputeID": "112",
+    "party": "0x9E51BbD7584aFd0FB2E4bddAB37f23A9f192d30a",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"DEMANDADO\\\",\\\"fileURI\\\":\\\"/ipfs/Qmb4YCRxjKEP1sjFcfPavNoaqYRoKGR3GeM61D4ik5vPXH\\\"}",
+    "fileURI": "/ipfs/Qmb4YCRxjKEP1sjFcfPavNoaqYRoKGR3GeM61D4ik5vPXH"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 398806155,
+    "transactionHash": "0x02559429c3c263323bc51e16a5b2355eb17bc00dc7252954145cbc8ae48da9c9",
+    "externalDisputeID": "113",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente caso 14\\\",\\\"fileURI\\\":\\\"/ipfs/QmeHChCX3xqfD4vKyFwzFarxKHe9EdJUa7FEPg3Z84moFR\\\"}",
+    "fileURI": "/ipfs/QmeHChCX3xqfD4vKyFwzFarxKHe9EdJUa7FEPg3Z84moFR"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 399136760,
+    "transactionHash": "0x4f622cbbb5825f0e36c5627e6b9547859eb3d86f9d7948de6548e5960d5f47be",
+    "externalDisputeID": "114",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1. Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmQAs1BFQcoWMonYjVrxakr3okQHyhVL7Cx8bdnB3YCFEK\\\"}",
+    "fileURI": "/ipfs/QmQAs1BFQcoWMonYjVrxakr3okQHyhVL7Cx8bdnB3YCFEK"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 399136935,
+    "transactionHash": "0x7ec9668c24fafaca4ff66f1f40bf161a08672ff75609e201d94f5a71251bd167",
+    "externalDisputeID": "114",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"2. Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmSYZ7KBqHNzTEaaQjPCQ89kY2769TLfd3jD3xnX1dPLYQ\\\"}",
+    "fileURI": "/ipfs/QmSYZ7KBqHNzTEaaQjPCQ89kY2769TLfd3jD3xnX1dPLYQ"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 399137865,
+    "transactionHash": "0x2eddbb00f101dc768e805d770f8096403dc358e441e79d4cb4e1f451f644923c",
+    "externalDisputeID": "115",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1. Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmQx89tsQPH6SfQUMpWT9xzFN1qdcLa2e9cRpAAamsmSTh\\\"}",
+    "fileURI": "/ipfs/QmQx89tsQPH6SfQUMpWT9xzFN1qdcLa2e9cRpAAamsmSTh"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 399138082,
+    "transactionHash": "0x70f55d9803d997296e223e64f7d836dc1f3e0a254e2bf244960676f62818b3d6",
+    "externalDisputeID": "115",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"2. Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmTs2DgRat5nryVApb6VzwxjCmbwRdEEf5B2Do8Hhr89UV\\\"}",
+    "fileURI": "/ipfs/QmTs2DgRat5nryVApb6VzwxjCmbwRdEEf5B2Do8Hhr89UV"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 401645084,
+    "transactionHash": "0x8c6dd46a18c54d968d510f4c7e63bb6248923b632f82911373013160d9ae7f86",
+    "externalDisputeID": "116",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1. Descargo del Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/Qmavqk9LTpjNutBnEVyZSKQijHHu7FaMTdLwwviALwg7ss\\\"}",
+    "fileURI": "/ipfs/Qmavqk9LTpjNutBnEVyZSKQijHHu7FaMTdLwwviALwg7ss"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 401645256,
+    "transactionHash": "0x98b637fae0116dbf6417f5df15ca43cfbb40f11cfaffea24bca527c53570c369",
+    "externalDisputeID": "116",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"2. Descargo de Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmPGGyiMq58CP2wsTxjSepTshgwx9RJJ5zMUK2DyeSXU6y\\\"}",
+    "fileURI": "/ipfs/QmPGGyiMq58CP2wsTxjSepTshgwx9RJJ5zMUK2DyeSXU6y"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 413746803,
+    "transactionHash": "0x718bbc70b62db020f2103de9fe616259e5715d970f726b5d90c23c8e41954f99",
+    "externalDisputeID": "117",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1. Descargo Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/Qmf626eLymK344ZFJZbaoPqykEGw72azNKfRqWbJrtNzmF\\\"}",
+    "fileURI": "/ipfs/Qmf626eLymK344ZFJZbaoPqykEGw72azNKfRqWbJrtNzmF"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 413747121,
+    "transactionHash": "0xa1ef55f02f4f959c6cd4eac487a27cf12db1d6ad9df256b81b553d84b97645e8",
+    "externalDisputeID": "117",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"2. Descargo Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmQ5JPKWdPB7ztiUJyiMX2mbexXYwKbc49Ndy11bYJ4J3S\\\"}",
+    "fileURI": "/ipfs/QmQ5JPKWdPB7ztiUJyiMX2mbexXYwKbc49Ndy11bYJ4J3S"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 440052040,
+    "transactionHash": "0x79d62dfd99153b4c2c423fbf8853ded83b1ef863561c47a5bca1ac372c792ff5",
+    "externalDisputeID": "119",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente caso 15 \\\",\\\"fileURI\\\":\\\"/ipfs/QmWLggZ3wX7zVUfEQoWpoW3N3RAAMb9arvsQfV89LA8GuL\\\"}",
+    "fileURI": "/ipfs/QmWLggZ3wX7zVUfEQoWpoW3N3RAAMb9arvsQfV89LA8GuL"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 440053513,
+    "transactionHash": "0x1557516a7e40c299b0ae06d91390dcc2ba414e9cc0061e593224e5bbf766e28d",
+    "externalDisputeID": "120",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente caso 16\\\",\\\"fileURI\\\":\\\"/ipfs/QmSMhS74ktPz9wdtEt3rsB2cB7BbqT56DZq6or3s63jNRG\\\"}",
+    "fileURI": "/ipfs/QmSMhS74ktPz9wdtEt3rsB2cB7BbqT56DZq6or3s63jNRG"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 440448357,
+    "transactionHash": "0xbae229b57baa24f8846de3b7dac36c7a111d4d7f1375e3efb1fa672df769e3f2",
+    "externalDisputeID": "121",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 17\\\",\\\"fileURI\\\":\\\"/ipfs/QmZJJY42yr3qVpqPsarGtPtb5mibDwjV2LgbgGHE9ePDx8\\\"}",
+    "fileURI": "/ipfs/QmZJJY42yr3qVpqPsarGtPtb5mibDwjV2LgbgGHE9ePDx8"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 449671742,
+    "transactionHash": "0x5cea325bc3ea85861cc7a4f0f0d6392916245cafdedf3af60e0d5065a915d389",
+    "externalDisputeID": "122",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 18\\\",\\\"fileURI\\\":\\\"/ipfs/QmbUVSSb91C384KajgSBaR9y18mrDhe7YDxWsSWCpYuu3z\\\"}",
+    "fileURI": "/ipfs/QmbUVSSb91C384KajgSBaR9y18mrDhe7YDxWsSWCpYuu3z"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 449680636,
+    "transactionHash": "0x3c4cf010880b62d4f8a4b03955f23053d471fc6b890df7dcd4aa875803aae836",
+    "externalDisputeID": "123",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente caso 19\\\",\\\"fileURI\\\":\\\"/ipfs/QmS9rk5Zx2i5i4DhckjhkpbcrsP87Z6SaxpRkkoskcRDEn\\\"}",
+    "fileURI": "/ipfs/QmS9rk5Zx2i5i4DhckjhkpbcrsP87Z6SaxpRkkoskcRDEn"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 449731281,
+    "transactionHash": "0x05fa33699b52e73bad42e489044c9865a02bb2ed6deaef4d6f79faac739e53b1",
+    "externalDisputeID": "124",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 20\\\",\\\"fileURI\\\":\\\"/ipfs/QmQiiRErfL81FdVkN5APtd3PtPRPo5NqcqrvXhS7GkkHvS\\\"}",
+    "fileURI": "/ipfs/QmQiiRErfL81FdVkN5APtd3PtPRPo5NqcqrvXhS7GkkHvS"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 452811332,
+    "transactionHash": "0xa91c7ba90d55f47308ddd270bb262b3fe0c59dd02b5f704605e3ebccb1c29dd1",
+    "externalDisputeID": "125",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1. Expediente caso 21\\\",\\\"fileURI\\\":\\\"/ipfs/QmbWUBmmPWQDncuvEoZnfz8eQUsCMhEKytg8ZV89uLQqY6\\\"}",
+    "fileURI": "/ipfs/QmbWUBmmPWQDncuvEoZnfz8eQUsCMhEKytg8ZV89uLQqY6"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 452812106,
+    "transactionHash": "0x947e0db5c81db6f794c25f2dd42b673a48ad4dac4e0c77015136ebb8ed6cab3d",
+    "externalDisputeID": "126",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1. Expediente caso 22\\\",\\\"fileURI\\\":\\\"/ipfs/QmZ8MJzXVwmBdxyPL4bRZVgUtiQtHdmxAkjzFuwKhiwcT6\\\"}",
+    "fileURI": "/ipfs/QmZ8MJzXVwmBdxyPL4bRZVgUtiQtHdmxAkjzFuwKhiwcT6"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 452812542,
+    "transactionHash": "0xfc2bc86522bc3f571659b88dbff1711a86f83d1d4851c94d864ccbf4411deee4",
+    "externalDisputeID": "127",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1. Expediente caso 23\\\",\\\"fileURI\\\":\\\"/ipfs/QmTfyxXvPVBqNEdDRg5uc7dKnxJHXUBcxn9NqAUA7Hrp3P\\\"}",
+    "fileURI": "/ipfs/QmTfyxXvPVBqNEdDRg5uc7dKnxJHXUBcxn9NqAUA7Hrp3P"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 453203896,
+    "transactionHash": "0x92342040a7975e62f0f6aa2fa717ba086cccb27389cff6a75435accc4eeb15ec",
+    "externalDisputeID": "128",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 24\\\",\\\"fileURI\\\":\\\"/ipfs/Qmbmr4HMKgZ5f7o5iwqwPtnksMD9YSG88tktDfHz8yE2Vq\\\"}",
+    "fileURI": "/ipfs/Qmbmr4HMKgZ5f7o5iwqwPtnksMD9YSG88tktDfHz8yE2Vq"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 453205483,
+    "transactionHash": "0x47ddea4860746d45960fa6cde227e294b0d6503fcd0c7eeda3a3a26f94e67643",
+    "externalDisputeID": "129",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 25\\\",\\\"fileURI\\\":\\\"/ipfs/QmNNPf9D5sHmkrqN35WmGxAJ85ZX7rAA7iqRU25dpeKbz9\\\"}",
+    "fileURI": "/ipfs/QmNNPf9D5sHmkrqN35WmGxAJ85ZX7rAA7iqRU25dpeKbz9"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 453213457,
+    "transactionHash": "0x138e95c0c6833fab609379430417139c9bfb47117b922f6cddb1ca2b35e27bab",
+    "externalDisputeID": "130",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente caso 26: Parte 1\\\",\\\"fileURI\\\":\\\"/ipfs/QmYtJWkiKNJEbAwjxumo4ABTczEh8581EaG2Nv6xY2zbkb\\\"}",
+    "fileURI": "/ipfs/QmYtJWkiKNJEbAwjxumo4ABTczEh8581EaG2Nv6xY2zbkb"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 453213598,
+    "transactionHash": "0x3abec747a3b6e3f6744e1905d683e65d9cc86bd498c8b96b34eecc7d37bfcad3",
+    "externalDisputeID": "130",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 26: Parte 2\\\",\\\"fileURI\\\":\\\"/ipfs/QmcWjJWGErM4Q7rCivjvmZpm8oVqY7L283R8SWLkRWnp2H\\\"}",
+    "fileURI": "/ipfs/QmcWjJWGErM4Q7rCivjvmZpm8oVqY7L283R8SWLkRWnp2H"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 453213735,
+    "transactionHash": "0x7c6b7a215bbcd5973f72fcbdb16315cd3118ebe71746be6b16f67f01da710079",
+    "externalDisputeID": "130",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Expediente Caso 26: Parte 3\\\",\\\"fileURI\\\":\\\"/ipfs/QmYtXcdBRffK6c8GPXyibpbiWnXu1VW9tLhiGsVRaQi8RA\\\"}",
+    "fileURI": "/ipfs/QmYtXcdBRffK6c8GPXyibpbiWnXu1VW9tLhiGsVRaQi8RA"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 455230764,
+    "transactionHash": "0x0555617656e93753194fbba42a2ec287d9efb17cbbf6266204f50a6647ec9f0e",
+    "externalDisputeID": "131",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Consumidor\\\",\\\"fileURI\\\":\\\"/ipfs/Qmf3GJSL5sqsFij5Spmb9aunBBVqgBGUyBzirmLEPWSVC5\\\"}",
+    "fileURI": "/ipfs/Qmf3GJSL5sqsFij5Spmb9aunBBVqgBGUyBzirmLEPWSVC5"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 455231009,
+    "transactionHash": "0x523d1ffb4377fec1c72d397ae35c92185a2772957603f50d7c1dfd7cd2a9b566",
+    "externalDisputeID": "131",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia Denunciado 1: Supermercado\\\",\\\"fileURI\\\":\\\"/ipfs/QmVPNE835Rpuqp25oTH4bZfqU6gT6Cqrq84mPpy3M87j85\\\"}",
+    "fileURI": "/ipfs/QmVPNE835Rpuqp25oTH4bZfqU6gT6Cqrq84mPpy3M87j85"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 455231227,
+    "transactionHash": "0x6e1954c997194417e8e6de0e5b7d063041e03904db95974cdd01df7c82fb6692",
+    "externalDisputeID": "131",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Evidencia Denunciado 2: Empresa Electrónicos\\\",\\\"fileURI\\\":\\\"/ipfs/QmRvxcPaYAsQ2FCfDXxQL9KBxwpkT1rp6ewQrJQQJBhgzH\\\"}",
+    "fileURI": "/ipfs/QmRvxcPaYAsQ2FCfDXxQL9KBxwpkT1rp6ewQrJQQJBhgzH"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 455232264,
+    "transactionHash": "0x38f4a1de79e050be18a21e14f4b828ae9b12727e8102ea9634fc618d743620b0",
+    "externalDisputeID": "132",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Consumidor\\\",\\\"fileURI\\\":\\\"/ipfs/QmbJzCw4tGEdAPd3UA7nsgTyQfWthq7CoxYWFnwXoGEnTT\\\"}",
+    "fileURI": "/ipfs/QmbJzCw4tGEdAPd3UA7nsgTyQfWthq7CoxYWFnwXoGEnTT"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 455232494,
+    "transactionHash": "0x942b7958b971aeece36e38a2f3d5156d5a1d079801b3cc92367b24b236e46882",
+    "externalDisputeID": "132",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"Descargo Denunciado: Empresa de Traslado\\\",\\\"fileURI\\\":\\\"/ipfs/QmVyCxvFj95R6jGEjfPCje2c5DDSNc7cjSMrqEoLetiQjG\\\"}",
+    "fileURI": "/ipfs/QmVyCxvFj95R6jGEjfPCje2c5DDSNc7cjSMrqEoLetiQjG"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 456899673,
+    "transactionHash": "0xb08707968796459d95355e201864f845199d4766199e00bdcabadc72dfb33134",
+    "externalDisputeID": "133",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1. Descargo Usuario\\\",\\\"fileURI\\\":\\\"/ipfs/QmcMN7L6HofqPLu5xuAUTy8vtMXxfLayLLw988ULBpCyXW\\\"}",
+    "fileURI": "/ipfs/QmcMN7L6HofqPLu5xuAUTy8vtMXxfLayLLw988ULBpCyXW"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 456899780,
+    "transactionHash": "0x4b32802ef5da915fede6f85a8568d60f20bba13a554f652ea1c8c08ae59624e3",
+    "externalDisputeID": "133",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"2. Descargo Lemon\\\",\\\"fileURI\\\":\\\"/ipfs/QmSvWG6NtA5WURbgwD7NR95LUL2bMhvMtdZEj3cYaKrZ6C\\\"}",
+    "fileURI": "/ipfs/QmSvWG6NtA5WURbgwD7NR95LUL2bMhvMtdZEj3cYaKrZ6C"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 457563319,
+    "transactionHash": "0x03d80f0548fab3e0a44fb685de593d45f2eca9324d60001fc560136d40d0f0c7",
+    "externalDisputeID": "134",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"1. Descargo Consumidor\\\",\\\"fileURI\\\":\\\"/ipfs/QmSe4MtkN5mBbZ28awT2UsnNJcRNV28J9iBmjsK7HMHgY5\\\"}",
+    "fileURI": "/ipfs/QmSe4MtkN5mBbZ28awT2UsnNJcRNV28J9iBmjsK7HMHgY5"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 457563511,
+    "transactionHash": "0x94c9d756deffff7bfd648c7cbfe7c6ad24e5e36797e19054b31740841431d646",
+    "externalDisputeID": "134",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"2. Descargo Denunciado 1: Empresa Autos\\\",\\\"fileURI\\\":\\\"/ipfs/QmeafEdEUzPv94Pg86hXjtuzSwFafvuWJEmSe6oTtGUspi\\\"}",
+    "fileURI": "/ipfs/QmeafEdEUzPv94Pg86hXjtuzSwFafvuWJEmSe6oTtGUspi"
+  },
+  {
+    "address": "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3",
+    "blockNumber": 457563841,
+    "transactionHash": "0xeb5336cb35522591bd7974ecb095c5a8b8300675afbf9d86b2ec6fe147f6f5a7",
+    "externalDisputeID": "134",
+    "party": "0xd0D5fAD9380bCd518a2B387032583d700f570D0E",
+    "evidence": "{\\\"name\\\":\\\"Evidence\\\",\\\"description\\\":\\\"3. Descargo Denunciado 2: Concesionaria\\\",\\\"fileURI\\\":\\\"/ipfs/QmNTkeAsGgKEmBadVsj5EGTznwbBQMkZUo4D5SQ4W3z9sh\\\"}",
+    "fileURI": "/ipfs/QmNTkeAsGgKEmBadVsj5EGTznwbBQMkZUo4D5SQ4W3z9sh"
+  }
+]
