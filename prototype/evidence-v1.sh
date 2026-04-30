@@ -53,6 +53,46 @@ function is_cid_blacklisted() {
   return 1
 }
 
+function normalize_ipfs_uri() {
+  local uri="$1"
+  local normalized_uri="$uri"
+
+  if [[ "$normalized_uri" == ipfs://ipfs/* ]]; then
+    normalized_uri="${normalized_uri#ipfs://ipfs/}"
+  elif [[ "$normalized_uri" == ipfs://* ]]; then
+    normalized_uri="${normalized_uri#ipfs://}"
+  elif [[ "$normalized_uri" == /ipfs/* ]]; then
+    normalized_uri="${normalized_uri#/ipfs/}"
+  elif [[ "$normalized_uri" == */ipfs/* ]]; then
+    normalized_uri="${normalized_uri#*/ipfs/}"
+  fi
+
+  echo "$normalized_uri"
+}
+
+function extract_cid_from_uri() {
+  local uri="$1"
+  local normalized_uri=
+  local cid_candidate=
+
+  normalized_uri="$(normalize_ipfs_uri "$uri")"
+  cid_candidate="${normalized_uri%%/*}"
+  cid_candidate="${cid_candidate%%\?*}"
+  cid_candidate="${cid_candidate%%\#*}"
+
+  if [[ -z "$cid_candidate" ]]; then return 1; fi
+  echo "$cid_candidate"
+}
+
+function is_cid_seen() {
+  local cid="$1"
+  local seen_cid=
+  for seen_cid in "${seen_cids[@]}"; do
+    if [[ "$seen_cid" == "$cid" ]]; then return 0; fi
+  done
+  return 1
+}
+
 # Pull Evidence events from genesis and shape each log into one JSON row.
 cast logs "$topic" \
   --from-block "$arbitratorGenesisBlock" \
@@ -95,19 +135,8 @@ while read -r row; do
   if ! jq -e 'has("fileURI")' >/dev/null 2>&1 <<<"$row"; then
     evidence_uri=$(jq -r '.evidence // empty' <<<"$row")
     file_uri=null
-    normalized_uri=
-
-    # Normalize common IPFS URI formats to the gateway path segment.
-    if [[ "$evidence_uri" == ipfs://* ]]; then
-      normalized_uri="${evidence_uri#ipfs://}"
-    elif [[ "$evidence_uri" == /ipfs/* ]]; then
-      normalized_uri="${evidence_uri#/ipfs/}"
-    elif [[ "$evidence_uri" == */ipfs/* ]]; then
-      normalized_uri="${evidence_uri#*/ipfs/}"
-    elif [[ -n "$evidence_uri" ]]; then
-      normalized_uri="$evidence_uri"
-    fi
-    cid_candidate="${normalized_uri%%/*}"
+    normalized_uri="$(normalize_ipfs_uri "$evidence_uri")"
+    cid_candidate="$(extract_cid_from_uri "$evidence_uri" 2>/dev/null || true)"
     if [[ -n "$normalized_uri" && -n "$cid_candidate" ]] && ! is_cid_blacklisted "$cid_candidate"; then
       # Network and JSON parsing failures should not abort the whole script.
       echo "fetching normalized_uri: $normalized_uri"
@@ -135,6 +164,34 @@ rm -f "$tmp_rows"
 
 # Replace output only once the full enriched JSON is ready.
 mv "$tmp_output" "$output"
+
+# Pin all distinct CIDs found in evidence fields through Filebase RPC.
+: "${BEARER:?BEARER is not set. Export it before running this script.}"
+seen_cids=()
+pinned_count=0
+failed_count=0
+
+while read -r row; do
+  while read -r maybe_uri; do
+    if [[ -z "$maybe_uri" ]]; then continue; fi
+
+    cid_candidate="$(extract_cid_from_uri "$maybe_uri" 2>/dev/null || true)"
+    if [[ -z "$cid_candidate" ]] || is_cid_blacklisted "$cid_candidate" || is_cid_seen "$cid_candidate"; then
+      continue
+    fi
+
+    seen_cids+=("$cid_candidate")
+    if curl -fsS -X POST -H "Authorization: Bearer $BEARER" "https://rpc.filebase.io/api/v0/pin/add?arg=$cid_candidate" >/dev/null 2>&1; then
+      ((pinned_count += 1))
+      echo "Pinned CID: $cid_candidate"
+    else
+      ((failed_count += 1))
+      echo "Failed to pin CID: $cid_candidate"
+    fi
+  done < <(jq -r '.evidence // empty, .fileURI // empty' <<<"$row")
+done < <(jq -c '.[]' "$output")
+
+echo "Pinning complete. Success: $pinned_count, Failed: $failed_count, Unique CIDs seen: ${#seen_cids[@]}"
 
 # Export all distinct arbitrable addresses seen in Evidence events.
 jq -r '[.[].address] | unique | .[]' "$output" | tee "unique-arbitrables-from-evidence-${network}.json"
