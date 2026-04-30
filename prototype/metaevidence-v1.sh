@@ -33,6 +33,16 @@ esac
 : "${RPC_URL:?RPC_URL is not set. Export it (e.g. export RPC_URL=\$(mesc url)) before running.}"
 
 output="metaevidence-${network}.json"
+blacklisted_cids=()
+
+function is_cid_blacklisted() {
+  local cid="$1"
+  local blacklisted_cid=
+  for blacklisted_cid in "${blacklisted_cids[@]}"; do
+    if [[ "$blacklisted_cid" == "$cid" ]]; then return 0; fi
+  done
+  return 1
+}
 
 # Pull MetaEvidence events from genesis and shape each log into one JSON row.
 cast logs "$topic" \
@@ -63,51 +73,64 @@ done | jq -s '.' | tee "$output"
 
 # Build an enriched copy first, then replace $output atomically.
 tmp_output=$(mktemp)
+tmp_rows=$(mktemp)
+total_rows=$(jq 'length' "$output")
+processed_rows=0
 
-jq -c '.[]' "$output" | while read -r row; do
+while read -r row; do
+  enriched_row="$row"
+
   # On reruns, skip network work for rows that were already enriched.
-  if jq -e 'has("fileURI") and has("dynamicScriptURI") and has("evidenceDisplayInterfaceURI")' >/dev/null 2>&1 <<<"$row"; then
-    jq -c '.' <<<"$row"
-    continue
-  fi
+  if ! jq -e 'has("fileURI") and has("dynamicScriptURI") and has("evidenceDisplayInterfaceURI")' >/dev/null 2>&1 <<<"$row"; then
+    evidence_uri=$(jq -r '.evidence // empty' <<<"$row")
+    file_uri=null
+    dynamic_script_uri=null
+    evidence_display_interface_uri=null
+    normalized_uri=
 
-  evidence_uri=$(jq -r '.evidence // empty' <<<"$row")
-  file_uri=null
-  dynamic_script_uri=null
-  evidence_display_interface_uri=null
-  normalized_uri=
-
-  # Normalize common IPFS URI formats to the gateway path segment.
-  if [[ "$evidence_uri" == ipfs://* ]]; then
-    normalized_uri="${evidence_uri#ipfs://}"
-  elif [[ "$evidence_uri" == /ipfs/* ]]; then
-    normalized_uri="${evidence_uri#/ipfs/}"
-  elif [[ "$evidence_uri" == */ipfs/* ]]; then
-    normalized_uri="${evidence_uri#*/ipfs/}"
-  elif [[ -n "$evidence_uri" ]]; then
-    normalized_uri="$evidence_uri"
-  fi
-
-  if [[ -n "$normalized_uri" ]]; then
-    # Network and JSON parsing failures should not abort the whole script.
-    fetched_payload=$(curl -fsSL "https://cdn.kleros.link/ipfs/$normalized_uri" 2>/dev/null || true)
-    if [[ -n "$fetched_payload" ]] && jq -e . >/dev/null 2>&1 <<<"$fetched_payload"; then
-      file_uri=$(jq -c '.fileURI // null' <<<"$fetched_payload")
-      dynamic_script_uri=$(jq -c '.dynamicScriptURI // null' <<<"$fetched_payload")
-      evidence_display_interface_uri=$(jq -c '.evidenceDisplayInterfaceURI // null' <<<"$fetched_payload")
+    # Normalize common IPFS URI formats to the gateway path segment.
+    if [[ "$evidence_uri" == ipfs://* ]]; then
+      normalized_uri="${evidence_uri#ipfs://}"
+    elif [[ "$evidence_uri" == /ipfs/* ]]; then
+      normalized_uri="${evidence_uri#/ipfs/}"
+    elif [[ "$evidence_uri" == */ipfs/* ]]; then
+      normalized_uri="${evidence_uri#*/ipfs/}"
+    elif [[ -n "$evidence_uri" ]]; then
+      normalized_uri="$evidence_uri"
     fi
+
+    cid_candidate="${normalized_uri%%/*}"
+    if [[ -n "$normalized_uri" && -n "$cid_candidate" ]] && ! is_cid_blacklisted "$cid_candidate"; then
+      # Network and JSON parsing failures should not abort the whole script.
+      fetched_payload=$(curl -fsSL "https://cdn.kleros.link/ipfs/$normalized_uri" 2>/dev/null || true)
+      if [[ -n "$fetched_payload" ]] && jq -e . >/dev/null 2>&1 <<<"$fetched_payload"; then
+        file_uri=$(jq -c '.fileURI // null' <<<"$fetched_payload")
+        dynamic_script_uri=$(jq -c '.dynamicScriptURI // null' <<<"$fetched_payload")
+        evidence_display_interface_uri=$(jq -c '.evidenceDisplayInterfaceURI // null' <<<"$fetched_payload")
+      fi
+    fi
+
+    enriched_row=$(jq -c \
+      --argjson fileURI "$file_uri" \
+      --argjson dynamicScriptURI "$dynamic_script_uri" \
+      --argjson evidenceDisplayInterfaceURI "$evidence_display_interface_uri" \
+      '. + {
+        fileURI: $fileURI,
+        dynamicScriptURI: $dynamicScriptURI,
+        evidenceDisplayInterfaceURI: $evidenceDisplayInterfaceURI
+      }' <<<"$row")
   fi
 
-  jq -c \
-    --argjson fileURI "$file_uri" \
-    --argjson dynamicScriptURI "$dynamic_script_uri" \
-    --argjson evidenceDisplayInterfaceURI "$evidence_display_interface_uri" \
-    '. + {
-      fileURI: $fileURI,
-      dynamicScriptURI: $dynamicScriptURI,
-      evidenceDisplayInterfaceURI: $evidenceDisplayInterfaceURI
-    }' <<<"$row"
-done | jq -s '.' > "$tmp_output"
+  echo "$enriched_row" >> "$tmp_rows"
+  ((processed_rows += 1))
+  progress_pct=100
+  if (( total_rows > 0 )); then progress_pct=$((processed_rows * 100 / total_rows)); fi
+  printf "\rEnrichment progress: %d/%d (%d%%)" "$processed_rows" "$total_rows" "$progress_pct"
+done < <(jq -c '.[]' "$output")
+
+printf "\n"
+jq -s '.' "$tmp_rows" > "$tmp_output"
+rm -f "$tmp_rows"
 
 # Replace output only once the full enriched JSON is ready.
 mv "$tmp_output" "$output"

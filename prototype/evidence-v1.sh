@@ -34,6 +34,25 @@ esac
 
 output="evidence-${network}.json"
 
+# Unavailable on CDN, no need to fetch.
+blacklisted_cids=(
+  "QmSGUyGqVGjs9Ran7FKyebjGcXYFyq2gpR5oMv2ovz6Wvc"
+  "QmVV5TWYsWwn5u5e9yWpK1H2C93a1XgrdZ2ULHh3S4Fzed"
+  "Qmdf1fwSnygpxBtURVpzgYmL7TjKQNfT9AwsFDBf7nTRJZ"
+  "QmeDUxmwd1tMu7bjZ6vz5H6dYxiphhkRxmhFbPfMYR3U36"
+  "QmSduCXqCxysdRBMiMomtQrdMWDDPYxiL15skSg8E7QtfH"
+  "QmdYQofCFVK3BSqmYSHRKWrkmWeygtsTad8YfehBrTEazH"
+)
+
+function is_cid_blacklisted() {
+  local cid="$1"
+  local blacklisted_cid=
+  for blacklisted_cid in "${blacklisted_cids[@]}"; do
+    if [[ "$blacklisted_cid" == "$cid" ]]; then return 0; fi
+  done
+  return 1
+}
+
 # Pull Evidence events from genesis and shape each log into one JSON row.
 cast logs "$topic" \
   --from-block "$arbitratorGenesisBlock" \
@@ -63,41 +82,56 @@ done | jq -s '.' | tee "$output"
 
 # Build an enriched copy first, then replace $output atomically.
 tmp_output=$(mktemp)
+tmp_rows=$(mktemp)
+total_rows=$(jq 'length' "$output")
+processed_rows=0
 
-jq -c '.[]' "$output" | while read -r row; do
+echo "tmp_output: $tmp_output"
+
+while read -r row; do
+  enriched_row="$row"
+
   # On reruns, skip network work for rows that were already enriched.
-  if jq -e 'has("fileURI")' >/dev/null 2>&1 <<<"$row"; then
-    jq -c '.' <<<"$row"
-    continue
-  fi
+  if ! jq -e 'has("fileURI")' >/dev/null 2>&1 <<<"$row"; then
+    evidence_uri=$(jq -r '.evidence // empty' <<<"$row")
+    file_uri=null
+    normalized_uri=
 
-  evidence_uri=$(jq -r '.evidence // empty' <<<"$row")
-  file_uri=null
-  normalized_uri=
-
-  # Normalize common IPFS URI formats to the gateway path segment.
-  if [[ "$evidence_uri" == ipfs://* ]]; then
-    normalized_uri="${evidence_uri#ipfs://}"
-  elif [[ "$evidence_uri" == /ipfs/* ]]; then
-    normalized_uri="${evidence_uri#/ipfs/}"
-  elif [[ "$evidence_uri" == */ipfs/* ]]; then
-    normalized_uri="${evidence_uri#*/ipfs/}"
-  elif [[ -n "$evidence_uri" ]]; then
-    normalized_uri="$evidence_uri"
-  fi
-
-  if [[ -n "$normalized_uri" ]]; then
-    # Network and JSON parsing failures should not abort the whole script.
-    fetched_payload=$(curl -fsSL "https://cdn.kleros.link/ipfs/$normalized_uri" 2>/dev/null || true)
-    if [[ -n "$fetched_payload" ]] && jq -e . >/dev/null 2>&1 <<<"$fetched_payload"; then
-      file_uri=$(jq -c '.fileURI // null' <<<"$fetched_payload")
+    # Normalize common IPFS URI formats to the gateway path segment.
+    if [[ "$evidence_uri" == ipfs://* ]]; then
+      normalized_uri="${evidence_uri#ipfs://}"
+    elif [[ "$evidence_uri" == /ipfs/* ]]; then
+      normalized_uri="${evidence_uri#/ipfs/}"
+    elif [[ "$evidence_uri" == */ipfs/* ]]; then
+      normalized_uri="${evidence_uri#*/ipfs/}"
+    elif [[ -n "$evidence_uri" ]]; then
+      normalized_uri="$evidence_uri"
     fi
+    cid_candidate="${normalized_uri%%/*}"
+    if [[ -n "$normalized_uri" && -n "$cid_candidate" ]] && ! is_cid_blacklisted "$cid_candidate"; then
+      # Network and JSON parsing failures should not abort the whole script.
+      echo "fetching normalized_uri: $normalized_uri"
+      fetched_payload=$(curl -fsSL "https://cdn.kleros.link/ipfs/$normalized_uri" 2>/dev/null || true)
+      if [[ -n "$fetched_payload" ]] && jq -e . >/dev/null 2>&1 <<<"$fetched_payload"; then
+        file_uri=$(jq -c '.fileURI // null' <<<"$fetched_payload")
+      fi
+    fi
+
+    enriched_row=$(jq -c \
+      --argjson fileURI "$file_uri" \
+      '. + { fileURI: $fileURI }' <<<"$row")
   fi
 
-  jq -c \
-    --argjson fileURI "$file_uri" \
-    '. + { fileURI: $fileURI }' <<<"$row"
-done | jq -s '.' > "$tmp_output"
+  echo "$enriched_row" >> "$tmp_rows"
+  ((processed_rows += 1))
+  progress_pct=100
+  if (( total_rows > 0 )); then progress_pct=$((processed_rows * 100 / total_rows)); fi
+  printf "\rEnrichment progress: %d/%d (%d%%)" "$processed_rows" "$total_rows" "$progress_pct"
+done < <(jq -c '.[]' "$output")
+
+printf "\n"
+jq -s '.' "$tmp_rows" > "$tmp_output"
+rm -f "$tmp_rows"
 
 # Replace output only once the full enriched JSON is ready.
 mv "$tmp_output" "$output"
