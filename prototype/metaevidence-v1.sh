@@ -21,7 +21,7 @@ network="$1"
 topic="0x61606860eb6c87306811e2695215385101daab53bd6ab4e9f9049aead9363c7d"
 
 case "$network" in
-  ethereum) arbitratorGenesisBlock=15485755 ;;
+  ethereum) arbitratorGenesisBlock=7303699 ;;
   gnosis) arbitratorGenesisBlock=16895601 ;;
   *)
     echo "Unsupported network: $network"
